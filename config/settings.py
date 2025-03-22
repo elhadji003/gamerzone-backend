@@ -1,6 +1,8 @@
 from pathlib import Path
 from datetime import timedelta
 import environ
+import os
+
 
 
 env = environ.Env()
@@ -35,6 +37,7 @@ INSTALLED_APPS = [
     'corsheaders',
     'rest_framework_simplejwt.token_blacklist',
     'users',
+    'messages_users',
 
 ]
 
@@ -52,13 +55,13 @@ MIDDLEWARE = [
 ]
 
 SIMPLE_JWT = {
-    'ACCESS_TOKEN_LIFETIME': timedelta(minutes=5),
-    'REFRESH_TOKEN_LIFETIME': timedelta(days=1),
-    'ROTATE_REFRESH_TOKENS': True,  # Indique si un nouveau refresh token est émis à chaque demande
-    'BLACKLIST_AFTER_ROTATION': True,  # Active le blacklisting des refresh tokens
-    'ALGORITHM': 'HS256',  # L'algorithme utilisé (par défaut HS256)
-    'SIGNING_KEY': 'ta_clé_secrète',  # Ta clé secrète pour signer les tokens
-    'AUTH_HEADER_TYPES': ('Bearer',),  # Types d'en-têtes d'autorisation
+    "ACCESS_TOKEN_LIFETIME": timedelta(minutes=5),  # Durée de vie du token d'accès
+    "REFRESH_TOKEN_LIFETIME": timedelta(days=7),  # Durée de vie du token de rafraîchissement
+    "ROTATE_REFRESH_TOKENS": True,  # Permet de renouveler le refresh token à chaque rafraîchissement
+    "BLACKLIST_AFTER_ROTATION": True,  # Met l'ancien refresh token sur une blacklist
+    "ALGORITHM": "HS256",
+    "SIGNING_KEY": SECRET_KEY,
+    "AUTH_HEADER_TYPES": ("Bearer",),
 }
 
 # Pour utiliser Redis pour stocker les tokens blacklistés
@@ -160,11 +163,13 @@ REST_FRAMEWORK = {
     'DEFAULT_AUTHENTICATION_CLASSES': (
         'rest_framework_simplejwt.authentication.JWTAuthentication',
     ),
-    'PAGE_SIZE': 10,  # Nombre d'éléments par page
+    'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',
+    'PAGE_SIZE': 10,
 }
 
+
 MEDIA_URL = '/media/'
-MEDIA_ROOT = BASE_DIR / 'media'
+MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 AUTH_USER_MODEL = 'users.User'
 
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
