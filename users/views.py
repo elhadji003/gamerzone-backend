@@ -30,7 +30,7 @@ class CustomTokenRefreshView(TokenRefreshView):
 class UserSerializer(serializers.ModelSerializer):
     class Meta:
         model = User
-        fields = ['id', 'pseudo', 'username', 'email', 'gender', 'phone', 'pays', 'bio', 'birthday', 'avatar', 'role']
+        fields = ['id', 'pseudo', 'username', 'email', 'gender', 'phone', 'pays', 'bio', 'birthday', 'avatar', 'role', 'is_online']
 
 # ✅ Pagination personnalisée
 class CustomPagination(PageNumberPagination):
@@ -57,6 +57,7 @@ class LoginView(APIView):
 
         user = authenticate(request, email=email, password=password)
         if user:
+            user.is_online = True
             refresh = RefreshToken.for_user(user)
             return Response({
                 'refresh': str(refresh),
@@ -81,12 +82,21 @@ class LogoutView(APIView):
         refresh_token = request.data.get("refresh")
         if not refresh_token:
             return Response({"detail": "Token manquant."}, status=status.HTTP_400_BAD_REQUEST)
+
         try:
             token = RefreshToken(refresh_token)
+            user = token.user
+
+            user.is_online = False
+            user.save()
+
             token.blacklist()
+
             return Response({"detail": "Déconnecté avec succès."}, status=status.HTTP_205_RESET_CONTENT)
-        except Exception:
+        
+        except Exception as e:
             return Response({"detail": "Token invalide ou expiré."}, status=status.HTTP_400_BAD_REQUEST)
+
 
 # ✅ Delete Account
 class DeleteAccountView(APIView):

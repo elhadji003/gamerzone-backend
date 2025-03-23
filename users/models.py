@@ -22,6 +22,8 @@ class User(AbstractUser):
         ('admin', 'Administrateur'),
     ]
     role = models.CharField(max_length=10, choices=ROLE_CHOICES, default='user')
+    is_online = models.BooleanField(default=False, verbose_name="En ligne")
+
 
     USERNAME_FIELD = 'email'
     REQUIRED_FIELDS = ['username', 'pseudo']

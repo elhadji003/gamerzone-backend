@@ -9,10 +9,11 @@ class RegisterSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = User
-        fields = ['id', 'pseudo', 'username', 'email', 'gender', 'password', 'password2', 'phone', 'pays', 'bio', 'birthday', 'avatar', 'role']
+        fields = ['id', 'pseudo', 'username', 'email', 'gender', 'password', 'password2', 'phone', 'pays', 'bio', 'birthday', 'avatar', 'role', 'is_online']
         extra_kwargs = {
             'role': {'default': 'user'},
             'avatar': {'required': False},
+            'is_online': {'default': False},
         }
 
     def validate(self, attrs):
@@ -43,6 +44,8 @@ class RegisterSerializer(serializers.ModelSerializer):
             birthday=validated_data.get('birthday'),
             avatar=validated_data.get('avatar', 'avatars/default.png'),
             role=validated_data.get('role', 'user'),
+            is_online=validated_data.get('is_online', False)
+
         )
         user.set_password(validated_data['password'])  # Hacher le mot de passe
         user.save()
