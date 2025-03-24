@@ -2,13 +2,16 @@ from rest_framework.views import APIView
 from rest_framework.response import Response
 from rest_framework import status, permissions
 from rest_framework_simplejwt.tokens import RefreshToken
-from django.contrib.auth import authenticate, get_user_model
+from django.contrib.auth import authenticate, get_user_model, login as django_login
 from django.shortcuts import get_object_or_404
 from rest_framework.pagination import PageNumberPagination
-from rest_framework.exceptions import PermissionDenied
 from rest_framework import serializers
 from rest_framework_simplejwt.views import TokenRefreshView
 from .serializers import RegisterSerializer, UpdateProfileSerializer
+from rest_framework_simplejwt.exceptions import TokenError, InvalidToken
+from django.utils.timezone import now
+
+
 
 User = get_user_model()
 
@@ -57,7 +60,15 @@ class LoginView(APIView):
 
         user = authenticate(request, email=email, password=password)
         if user:
+            if not user.is_active:
+                return Response({"detail": "Compte non activé."}, status=status.HTTP_401_UNAUTHORIZED)
+
             user.is_online = True
+            user.last_login = now()
+            user.save()
+
+            django_login(request, user)  # Connexion de l'utilisateur dans la session
+
             refresh = RefreshToken.for_user(user)
             return Response({
                 'refresh': str(refresh),
@@ -65,6 +76,7 @@ class LoginView(APIView):
                 'user': UserSerializer(user).data
             })
         return Response({"detail": "Email ou mot de passe incorrect."}, status=status.HTTP_401_UNAUTHORIZED)
+
 
 # ✅ getMe
 class GetMe(APIView):
@@ -90,11 +102,13 @@ class LogoutView(APIView):
             user.is_online = False
             user.save()
 
-            token.blacklist()
+            token.blacklist()  # Marquer le token comme invalide
 
             return Response({"detail": "Déconnecté avec succès."}, status=status.HTTP_205_RESET_CONTENT)
         
-        except Exception as e:
+        except TokenError as e:
+            return Response({"detail": f"Token error: {str(e)}"}, status=status.HTTP_400_BAD_REQUEST)
+        except InvalidToken:
             return Response({"detail": "Token invalide ou expiré."}, status=status.HTTP_400_BAD_REQUEST)
 
 
@@ -107,8 +121,15 @@ class DeleteAccountView(APIView):
         password = request.data.get('password')
         if not user.check_password(password):
             return Response({"detail": "Mot de passe incorrect."}, status=status.HTTP_400_BAD_REQUEST)
+
+        # Étape de confirmation avant suppression
+        confirmation = request.data.get('confirmation')
+        if confirmation != 'CONFIRMER':
+            return Response({"detail": "Veuillez confirmer la suppression de votre compte."}, status=status.HTTP_400_BAD_REQUEST)
+
         user.delete()
-        return Response({"detail": "Compte supprimé."}, status=status.HTTP_204_NO_CONTENT)
+        return Response({"detail": "Compte supprimé avec succès."}, status=status.HTTP_204_NO_CONTENT)
+
 
 # ✅ Récupérer tous les utilisateurs avec pagination
 class UserListView(APIView):

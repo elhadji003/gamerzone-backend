@@ -16,6 +16,8 @@ class User(AbstractUser):
     bio = models.TextField(blank=True, verbose_name="Biographie")
     birthday = models.DateField(null=True, blank=True, verbose_name="Date de naissance")
     avatar = models.ImageField(upload_to='avatars/', default='avatars/default.png')
+    updated_at = models.DateTimeField(auto_now=True)
+
 
     ROLE_CHOICES = [
         ('user', 'Utilisateur'),
