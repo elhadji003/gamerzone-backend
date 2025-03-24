@@ -51,3 +51,11 @@ class RegisterSerializer(serializers.ModelSerializer):
         user.save()
 
         return user
+
+class UpdateProfileSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = User
+        fields = ['pseudo', 'username', 'email', 'gender', 'phone', 'pays', 'bio', 'birthday', 'avatar']
+        extra_kwargs = {
+            'avatar': {'required': False},
+        }

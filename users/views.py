@@ -8,7 +8,7 @@ from rest_framework.pagination import PageNumberPagination
 from rest_framework.exceptions import PermissionDenied
 from rest_framework import serializers
 from rest_framework_simplejwt.views import TokenRefreshView
-from .serializers import RegisterSerializer
+from .serializers import RegisterSerializer, UpdateProfileSerializer
 
 User = get_user_model()
 
@@ -142,7 +142,7 @@ class UpdateProfileUser(APIView):
             return Response({"detail": "Vous n'êtes pas autorisé à modifier ce profil."}, status=status.HTTP_403_FORBIDDEN)
 
         user = get_object_or_404(User, id=user_id)
-        serializer = RegisterSerializer(user, data=request.data, partial=True)
+        serializer = UpdateProfileSerializer(user, data=request.data, partial=True)
 
         if serializer.is_valid():
             if 'is_staff' in serializer.validated_data or 'is_superuser' in serializer.validated_data:
