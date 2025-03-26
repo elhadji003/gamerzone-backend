@@ -57,7 +57,7 @@ MIDDLEWARE = [
 ]
 
 SIMPLE_JWT = {
-    "ACCESS_TOKEN_LIFETIME": timedelta(minutes=5),  # Durée de vie du token d'accès
+    "ACCESS_TOKEN_LIFETIME": timedelta(hours=1),  # Durée de vie du token d'accès
     "REFRESH_TOKEN_LIFETIME": timedelta(days=7),  # Durée de vie du token de rafraîchissement
     "ROTATE_REFRESH_TOKENS": True,  # Permet de renouveler le refresh token à chaque rafraîchissement
     "BLACKLIST_AFTER_ROTATION": True,  # Met l'ancien refresh token sur une blacklist
@@ -154,7 +154,7 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 # configueation pour les apis
 
 CORS_ALLOW_CREDENTIALS = True
-CORS_ALLOWED_ORIGINS = ['http://localhost:5174']
+CORS_ALLOWED_ORIGINS = ['http://localhost:5173']
 CORS_ALLOW_HEADERS = list(default_headers) + [
     'Authorization',
     'Content-Type',

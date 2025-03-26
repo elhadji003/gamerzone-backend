@@ -1,15 +1,14 @@
 from rest_framework import serializers
 from .models import User
 from django.contrib.auth.password_validation import validate_password
-from django.core.exceptions import ValidationError
 
 class RegisterSerializer(serializers.ModelSerializer):
     password = serializers.CharField(write_only=True, validators=[validate_password])
-    password2 = serializers.CharField(write_only=True, required=True)  # Confirmation du mot de passe
+    password2 = serializers.CharField(write_only=True, required=True)
 
     class Meta:
         model = User
-        fields = ['id', 'pseudo', 'username', 'email', 'gender', 'password', 'password2', 'phone', 'pays', 'bio', 'birthday', 'avatar', 'role', 'is_online']
+        fields = ['id', 'pseudo', 'full_name', 'email', 'gender', 'password', 'password2', 'phone', 'pays', 'bio', 'birthday', 'avatar', 'role', 'is_online', 'updated_at']
         extra_kwargs = {
             'role': {'default': 'user'},
             'avatar': {'required': False},
@@ -32,9 +31,10 @@ class RegisterSerializer(serializers.ModelSerializer):
         
         if User.objects.filter(pseudo=validated_data['pseudo']).exists():
             raise serializers.ValidationError({"pseudo": "Ce pseudo est déjà pris."})
+   
 
         user = User(
-            username=validated_data['username'],
+            full_name=validated_data['full_name'],
             email=validated_data['email'],
             pseudo=validated_data['pseudo'],
             gender=validated_data.get('gender', 'man'),
@@ -55,7 +55,7 @@ class RegisterSerializer(serializers.ModelSerializer):
 class UpdateProfileSerializer(serializers.ModelSerializer):
     class Meta:
         model = User
-        fields = ['pseudo', 'username', 'email', 'gender', 'phone', 'pays', 'bio', 'birthday', 'avatar']
+        fields = ['pseudo', 'full_name', 'email', 'gender', 'phone', 'pays', 'bio', 'birthday', 'avatar']
         extra_kwargs = {
             'avatar': {'required': False},
         }

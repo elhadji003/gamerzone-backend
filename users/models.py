@@ -1,8 +1,10 @@
 from django.db import models
 from django.contrib.auth.models import AbstractUser
+from django.core.validators import RegexValidator
 
 class User(AbstractUser):
     pseudo = models.CharField(max_length=50, unique=True, verbose_name="Pseudo")
+    full_name = models.CharField(max_length=100, verbose_name="Full name", null=True, blank=True)
 
     GENDER_CHOICES = [
         ('man', 'Homme'),
@@ -11,13 +13,16 @@ class User(AbstractUser):
     gender = models.CharField(max_length=10, choices=GENDER_CHOICES, default='man')
 
     email = models.EmailField(unique=True, verbose_name="Email")
-    phone = models.CharField(max_length=20, blank=True, verbose_name="Téléphone")
+    
+    phone_validator = RegexValidator(regex=r'^\+?1?\d{9,15}$', message="Le numéro de téléphone n'est pas valide.")
+    phone = models.CharField(max_length=20, blank=True, validators=[phone_validator], verbose_name="Téléphone")
+    
     pays = models.CharField(max_length=100, blank=True, verbose_name="Pays")
     bio = models.TextField(blank=True, verbose_name="Biographie")
     birthday = models.DateField(null=True, blank=True, verbose_name="Date de naissance")
     avatar = models.ImageField(upload_to='avatars/', default='avatars/default.png')
+    
     updated_at = models.DateTimeField(auto_now=True)
-
 
     ROLE_CHOICES = [
         ('user', 'Utilisateur'),
@@ -26,15 +31,14 @@ class User(AbstractUser):
     role = models.CharField(max_length=10, choices=ROLE_CHOICES, default='user')
     is_online = models.BooleanField(default=False, verbose_name="En ligne")
 
-
     USERNAME_FIELD = 'email'
-    REQUIRED_FIELDS = ['username', 'pseudo']
+    REQUIRED_FIELDS = ['pseudo']
 
     def __str__(self):
         return self.email
 
     def get_full_name(self):
-        return f"{self.first_name} {self.last_name}".strip()
+        return self.full_name or f"{self.first_name} {self.last_name}".strip()
 
     def get_short_name(self):
-        return self.first_name or self.email
+        return self.full_name or self.first_name or self.email

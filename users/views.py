@@ -33,7 +33,7 @@ class CustomTokenRefreshView(TokenRefreshView):
 class UserSerializer(serializers.ModelSerializer):
     class Meta:
         model = User
-        fields = ['id', 'pseudo', 'username', 'email', 'gender', 'phone', 'pays', 'bio', 'birthday', 'avatar', 'role', 'is_online']
+        fields = ['id', 'pseudo', 'full_name', 'email', 'gender', 'phone', 'pays', 'bio', 'birthday', 'avatar', 'role', 'is_online', 'updated_at']
 
 # ✅ Pagination personnalisée
 class CustomPagination(PageNumberPagination):
