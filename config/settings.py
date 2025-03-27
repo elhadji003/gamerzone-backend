@@ -164,7 +164,7 @@ CORS_ALLOWED_ORIGINS = [
 ]
 
 ALLOWED_HOSTS = [
-    "gamerzone-backend-7vxw.onrender.com",
+    "https://gamerzone-backend-7vxw.onrender.com",
     "127.0.0.1",
     "localhost",
 ]
