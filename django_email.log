@@ -9616,3 +9616,592 @@ File C:\Python312\Lib\site-packages\rest_framework\locale\zh_CN\LC_MESSAGES\djan
 File C:\Python312\Lib\site-packages\rest_framework\locale\zh_Hans\LC_MESSAGES\django.mo first seen with mtime 1742383793.5700035
 File C:\Python312\Lib\site-packages\rest_framework\locale\zh_Hant\LC_MESSAGES\django.mo first seen with mtime 1742383793.5720036
 File C:\Python312\Lib\site-packages\rest_framework\locale\zh_TW\LC_MESSAGES\django.mo first seen with mtime 1742383793.5730033
+File C:\Python312\Lib\site-packages\django\contrib\messages\middleware.py first seen with mtime 1741861023.4296994
+File C:\Python312\Lib\site-packages\rest_framework_simplejwt\token_blacklist\migrations\0010_fix_migrate_to_bigautofield.py first seen with mtime 1742383975.6103637
+File C:\Python312\Lib\stringprep.py first seen with mtime 1733259452.0
+File C:\Python312\Lib\site-packages\django\contrib\sessions\backends\__init__.py first seen with mtime 1741861024.2677095
+File C:\Python312\Lib\site-packages\django\middleware\common.py first seen with mtime 1741861025.4802992
+File C:\Users\DELL\Desktop\Real App\App-gaming\gamingzone-backend\users\migrations\0004_user_is_online.py first seen with mtime 1742689948.90807
+File C:\Users\DELL\Desktop\Real App\App-gaming\gamingzone-backend\users\migrations\0002_user_role.py first seen with mtime 1742495652.1192484
+File C:\Python312\Lib\site-packages\MySQLdb\connections.py first seen with mtime 1740995914.432797
+File C:\Python312\Lib\site-packages\rest_framework_simplejwt\token_blacklist\migrations\0007_auto_20171017_2214.py first seen with mtime 1742383975.605803
+File C:\Python312\Lib\site-packages\django\contrib\auth\migrations\0009_alter_user_last_name_max_length.py first seen with mtime 1741861021.6794567
+File C:\Users\DELL\Desktop\Real App\App-gaming\gamingzone-backend\users\migrations\0006_user_full_name_alter_user_phone.py first seen with mtime 1742986381.7034502
+File C:\Python312\Lib\site-packages\django\contrib\auth\migrations\0007_alter_validators_add_error_messages.py first seen with mtime 1741861021.6769657
+File C:\Python312\Lib\site-packages\rest_framework_simplejwt\token_blacklist\migrations\0011_linearizes_history.py first seen with mtime 1742383975.6123612
+File C:\Users\DELL\Desktop\Real App\App-gaming\gamingzone-backend\users\migrations\0005_user_updated_at.py first seen with mtime 1742854244.514664
+File C:\Python312\Lib\site-packages\django\contrib\contenttypes\migrations\0002_remove_content_type_name.py first seen with mtime 1741861022.050951
+File C:\Python312\Lib\site-packages\django\contrib\auth\migrations\0012_alter_user_first_name_max_length.py first seen with mtime 1741861021.68316
+File C:\Python312\Lib\site-packages\django\contrib\admin\migrations\0001_initial.py first seen with mtime 1741861020.7964551
+File C:\Python312\Lib\site-packages\django\contrib\admin\migrations\0003_logentry_add_action_flag_choices.py first seen with mtime 1741861020.7976005
+File C:\Python312\Lib\site-packages\django\contrib\auth\migrations\0008_alter_user_username_max_length.py first seen with mtime 1741861021.6782131
+File C:\Python312\Lib\site-packages\django\middleware\security.py first seen with mtime 1741861025.4865544
+File C:\Users\DELL\Desktop\Real App\App-gaming\gamingzone-backend\users\migrations\0001_initial.py first seen with mtime 1742384062.9204805
+File C:\Users\DELL\Desktop\Real App\App-gaming\gamingzone-backend\users\migrations\0003_alter_user_bio_alter_user_birthday_alter_user_email_and_more.py first seen with mtime 1742651455.2927673
+File C:\Python312\Lib\site-packages\django\contrib\sessions\middleware.py first seen with mtime 1741861024.2652028
+File C:\Python312\Lib\site-packages\rest_framework_simplejwt\token_blacklist\migrations\0003_auto_20171017_2007.py first seen with mtime 1742383975.5967033
+File C:\Python312\Lib\site-packages\django\contrib\contenttypes\migrations\__init__.py first seen with mtime 1741861022.050951
+File C:\Python312\Lib\site-packages\django\contrib\sessions\migrations\__init__.py first seen with mtime 1741861024.6100187
+File C:\Python312\Lib\site-packages\django\contrib\auth\migrations\0001_initial.py first seen with mtime 1741861021.670553
+File C:\Python312\Lib\site-packages\django\contrib\sessions\backends\db.py first seen with mtime 1741861024.2734952
+File C:\Python312\Lib\site-packages\rest_framework_simplejwt\token_blacklist\migrations\0004_auto_20171017_2013.py first seen with mtime 1742383975.598225
+File C:\Python312\Lib\site-packages\rest_framework_simplejwt\token_blacklist\migrations\0012_alter_outstandingtoken_user.py first seen with mtime 1742383975.6123612
+File C:\Python312\Lib\site-packages\MySQLdb\cursors.py first seen with mtime 1740995914.4352665
+File C:\Users\DELL\Desktop\Real App\App-gaming\gamingzone-backend\users\migrations\__init__.py first seen with mtime 1742382342.4888055
+File C:\Python312\Lib\site-packages\rest_framework_simplejwt\token_blacklist\migrations\0001_initial.py first seen with mtime 1742383975.590709
+File C:\Python312\Lib\site-packages\django\contrib\auth\migrations\0006_require_contenttypes_0002.py first seen with mtime 1741861021.6757455
+File C:\Python312\Lib\site-packages\rest_framework_simplejwt\token_blacklist\migrations\0002_outstandingtoken_jti_hex.py first seen with mtime 1742383975.5927124
+File C:\Python312\Lib\site-packages\django\contrib\sessions\exceptions.py first seen with mtime 1741861024.2635088
+File C:\Python312\Lib\site-packages\django\contrib\auth\migrations\__init__.py first seen with mtime 1741861021.6837785
+File C:\Python312\Lib\site-packages\django\contrib\auth\migrations\0003_alter_user_email_max_length.py first seen with mtime 1741861021.67296
+File C:\Python312\Lib\site-packages\django\contrib\sessions\migrations\0001_initial.py first seen with mtime 1741861024.609236
+File C:\Python312\Lib\site-packages\django\db\migrations\recorder.py first seen with mtime 1741861025.2944121
+File C:\Python312\Lib\site-packages\django\contrib\auth\migrations\0005_alter_user_last_login_null.py first seen with mtime 1741861021.6742177
+File C:\Python312\Lib\site-packages\rest_framework_simplejwt\token_blacklist\migrations\0008_migrate_to_bigautofield.py first seen with mtime 1742383975.6067994
+File C:\Python312\Lib\site-packages\django\contrib\sessions\backends\base.py first seen with mtime 1741861024.268959
+File C:\Python312\Lib\site-packages\django\contrib\auth\migrations\0002_alter_permission_name_max_length.py first seen with mtime 1741861021.6717062
+File C:\Python312\Lib\site-packages\django\contrib\auth\migrations\0010_alter_group_name_max_length.py first seen with mtime 1741861021.6806817
+File C:\Users\DELL\Desktop\Real App\App-gaming\gamingzone-backend\config\wsgi.py first seen with mtime 1742382335.9563022
+File C:\Python312\Lib\site-packages\django\contrib\contenttypes\migrations\0001_initial.py first seen with mtime 1741861022.0496838
+File C:\Python312\Lib\encodings\idna.py first seen with mtime 1733259452.0
+File C:\Python312\Lib\site-packages\django\contrib\auth\migrations\0004_alter_user_username_opts.py first seen with mtime 1741861021.673592
+File C:\Python312\Lib\site-packages\django\contrib\admin\migrations\__init__.py first seen with mtime 1741861020.7982156
+File C:\Python312\Lib\site-packages\django\db\migrations\executor.py first seen with mtime 1741861025.2881787
+File C:\Python312\Lib\site-packages\django\middleware\clickjacking.py first seen with mtime 1741861025.479047
+File C:\Users\DELL\Desktop\Real App\App-gaming\gamingzone-backend\messages_users\migrations\__init__.py first seen with mtime 1742647101.0550218
+File C:\Python312\Lib\site-packages\rest_framework_simplejwt\token_blacklist\migrations\0006_auto_20171017_2113.py first seen with mtime 1742383975.603794
+File C:\Python312\Lib\site-packages\django\db\migrations\loader.py first seen with mtime 1741861025.290701
+File C:\Python312\Lib\site-packages\rest_framework_simplejwt\token_blacklist\migrations\__init__.py first seen with mtime 1742383975.6133616
+File C:\Users\DELL\Desktop\Real App\App-gaming\gamingzone-backend\messages_users\migrations\0001_initial.py first seen with mtime 1742651455.2907257
+File C:\Python312\Lib\site-packages\django\db\backends\mysql\compiler.py first seen with mtime 1741861025.240267
+File C:\Python312\Lib\site-packages\django\contrib\auth\migrations\0011_update_proxy_permissions.py first seen with mtime 1741861021.6819074
+File C:\Python312\Lib\site-packages\django\contrib\admin\migrations\0002_logentry_remove_auto_add.py first seen with mtime 1741861020.7970786
+File C:\Python312\Lib\site-packages\django\db\migrations\graph.py first seen with mtime 1741861025.2894382
+File C:\Python312\Lib\site-packages\django\db\models\sql\compiler.py first seen with mtime 1741861025.3469908
+File C:\Python312\Lib\site-packages\rest_framework_simplejwt\token_blacklist\migrations\0005_remove_outstandingtoken_jti.py first seen with mtime 1742383975.6027966
+(0.000) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+(0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+(0.000) SELECT `users_user`.`id`, `users_user`.`password`, `users_user`.`last_login`, `users_user`.`is_superuser`, `users_user`.`username`, `users_user`.`first_name`, `users_user`.`last_name`, `users_user`.`is_staff`, `users_user`.`is_active`, `users_user`.`date_joined`, `users_user`.`pseudo`, `users_user`.`full_name`, `users_user`.`gender`, `users_user`.`email`, `users_user`.`phone`, `users_user`.`pays`, `users_user`.`bio`, `users_user`.`birthday`, `users_user`.`avatar`, `users_user`.`updated_at`, `users_user`.`role`, `users_user`.`is_online` FROM `users_user` WHERE `users_user`.`email` = 'malickelhadji07@gmail.com' LIMIT 21; args=('malickelhadji07@gmail.com',); alias=default
+File C:\Python312\Lib\site-packages\django\core\mail\backends\__init__.py first seen with mtime 1741861025.1440973
+File C:\Python312\Lib\site-packages\django\contrib\messages\storage\cookie.py first seen with mtime 1741861023.4347558
+File C:\Python312\Lib\site-packages\django\contrib\sessions\serializers.py first seen with mtime 1741861024.2664535
+File C:\Python312\Lib\site-packages\django\contrib\messages\storage\session.py first seen with mtime 1741861023.4372838
+File C:\Python312\Lib\site-packages\django\core\mail\backends\base.py first seen with mtime 1741861025.144727
+File C:\Python312\Lib\site-packages\django\contrib\messages\storage\fallback.py first seen with mtime 1741861023.435922
+File C:\Python312\Lib\smtplib.py first seen with mtime 1733259452.0
+File C:\Python312\Lib\site-packages\django\core\mail\backends\smtp.py first seen with mtime 1741861025.1503816
+"POST /api/users/reset-password/ HTTP/1.1" 200 59
+"OPTIONS /api/users/reset/Mw/cnbtjb-7f8b45f379624f0c856e6e068118da08/ HTTP/1.1" 200 0
+(0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+(0.000) SELECT `users_user`.`id`, `users_user`.`password`, `users_user`.`last_login`, `users_user`.`is_superuser`, `users_user`.`username`, `users_user`.`first_name`, `users_user`.`last_name`, `users_user`.`is_staff`, `users_user`.`is_active`, `users_user`.`date_joined`, `users_user`.`pseudo`, `users_user`.`full_name`, `users_user`.`gender`, `users_user`.`email`, `users_user`.`phone`, `users_user`.`pays`, `users_user`.`bio`, `users_user`.`birthday`, `users_user`.`avatar`, `users_user`.`updated_at`, `users_user`.`role`, `users_user`.`is_online` FROM `users_user` WHERE `users_user`.`id` = 3 LIMIT 21; args=(3,); alias=default
+(0.000) UPDATE `users_user` SET `password` = 'pbkdf2_sha256$720000$LTRwQYUh9inPFMnKnIkQWa$b/5xb8FMrcfGvbC+k1gXClxDdNcxL3CQ191480+s/Vk=', `last_login` = NULL, `is_superuser` = 0, `username` = 'Elhadji', `first_name` = '', `last_name` = '', `is_staff` = 0, `is_active` = 1, `date_joined` = '2025-03-19 15:31:07.099760', `pseudo` = 'Piod Gamer', `full_name` = NULL, `gender` = '', `email` = 'malickelhadji07@gmail.com', `phone` = '', `pays` = '', `bio` = '', `birthday` = NULL, `avatar` = 'avatars/default.png', `updated_at` = '2025-03-27 14:00:06.292425', `role` = 'user', `is_online` = 0 WHERE `users_user`.`id` = 3; args=('pbkdf2_sha256$720000$LTRwQYUh9inPFMnKnIkQWa$b/5xb8FMrcfGvbC+k1gXClxDdNcxL3CQ191480+s/Vk=', False, 'Elhadji', '', '', False, True, '2025-03-19 15:31:07.099760', 'Piod Gamer', '', 'malickelhadji07@gmail.com', '', '', '', 'avatars/default.png', '2025-03-27 14:00:06.292425', 'user', False, 3); alias=default
+"POST /api/users/reset/Mw/cnbtjb-7f8b45f379624f0c856e6e068118da08/ HTTP/1.1" 200 54
+"OPTIONS /api/users/login/ HTTP/1.1" 200 0
+(0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+(0.000) SELECT `users_user`.`id`, `users_user`.`password`, `users_user`.`last_login`, `users_user`.`is_superuser`, `users_user`.`username`, `users_user`.`first_name`, `users_user`.`last_name`, `users_user`.`is_staff`, `users_user`.`is_active`, `users_user`.`date_joined`, `users_user`.`pseudo`, `users_user`.`full_name`, `users_user`.`gender`, `users_user`.`email`, `users_user`.`phone`, `users_user`.`pays`, `users_user`.`bio`, `users_user`.`birthday`, `users_user`.`avatar`, `users_user`.`updated_at`, `users_user`.`role`, `users_user`.`is_online` FROM `users_user` WHERE `users_user`.`email` = 'malickelhadji07@gmail.com' LIMIT 21; args=('malickelhadji07@gmail.com',); alias=default
+(0.016) UPDATE `users_user` SET `password` = 'pbkdf2_sha256$720000$LTRwQYUh9inPFMnKnIkQWa$b/5xb8FMrcfGvbC+k1gXClxDdNcxL3CQ191480+s/Vk=', `last_login` = '2025-03-27 14:00:48.944370', `is_superuser` = 0, `username` = 'Elhadji', `first_name` = '', `last_name` = '', `is_staff` = 0, `is_active` = 1, `date_joined` = '2025-03-19 15:31:07.099760', `pseudo` = 'Piod Gamer', `full_name` = NULL, `gender` = '', `email` = 'malickelhadji07@gmail.com', `phone` = '', `pays` = '', `bio` = '', `birthday` = NULL, `avatar` = 'avatars/default.png', `updated_at` = '2025-03-27 14:00:48.944370', `role` = 'user', `is_online` = 1 WHERE `users_user`.`id` = 3; args=('pbkdf2_sha256$720000$LTRwQYUh9inPFMnKnIkQWa$b/5xb8FMrcfGvbC+k1gXClxDdNcxL3CQ191480+s/Vk=', '2025-03-27 14:00:48.944370', False, 'Elhadji', '', '', False, True, '2025-03-19 15:31:07.099760', 'Piod Gamer', '', 'malickelhadji07@gmail.com', '', '', '', 'avatars/default.png', '2025-03-27 14:00:48.944370', 'user', True, 3); alias=default
+(0.000) SELECT 1 AS `a` FROM `django_session` WHERE `django_session`.`session_key` = 'ta24p1t9nbidbvxdgzk0gpbg5kjeaahx' LIMIT 1; args=(1, 'ta24p1t9nbidbvxdgzk0gpbg5kjeaahx'); alias=default
+(0.000) BEGIN; args=None; alias=default
+(0.000) INSERT INTO `django_session` (`session_key`, `session_data`, `expire_date`) VALUES ('ta24p1t9nbidbvxdgzk0gpbg5kjeaahx', 'e30:1txnmq:kn-hni8_75PMpV8zJR29Qdbsn1dJf54Amu-N4GdRnv8', '2025-04-10 14:00:48.951402'); args=('ta24p1t9nbidbvxdgzk0gpbg5kjeaahx', 'e30:1txnmq:kn-hni8_75PMpV8zJR29Qdbsn1dJf54Amu-N4GdRnv8', '2025-04-10 14:00:48.951402'); alias=default
+(0.000) COMMIT; args=None; alias=default
+(0.000) UPDATE `users_user` SET `last_login` = '2025-03-27 14:00:48.956997' WHERE `users_user`.`id` = 3; args=('2025-03-27 14:00:48.956997', 3); alias=default
+(0.000) INSERT INTO `token_blacklist_outstandingtoken` (`user_id`, `jti`, `token`, `created_at`, `expires_at`) VALUES (3, 'a4d0d8223da249bf99ef1af0e9dfdd39', 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc0MzY4ODg0OCwiaWF0IjoxNzQzMDg0MDQ4LCJqdGkiOiJhNGQwZDgyMjNkYTI0OWJmOTllZjFhZjBlOWRmZGQzOSIsInVzZXJfaWQiOjN9.kmoEMGi6v97n9EgyKgIWoiqxdzzd1fPVLnhPHi4Zb_M', '2025-03-27 14:00:48.961010', '2025-04-03 14:00:48'); args=[3, 'a4d0d8223da249bf99ef1af0e9dfdd39', 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc0MzY4ODg0OCwiaWF0IjoxNzQzMDg0MDQ4LCJqdGkiOiJhNGQwZDgyMjNkYTI0OWJmOTllZjFhZjBlOWRmZGQzOSIsInVzZXJfaWQiOjN9.kmoEMGi6v97n9EgyKgIWoiqxdzzd1fPVLnhPHi4Zb_M', '2025-03-27 14:00:48.961010', '2025-04-03 14:00:48']; alias=default
+(0.000) BEGIN; args=None; alias=default
+(0.000) UPDATE `django_session` SET `session_data` = '.eJxVjEsOwiAUAO_C2hA-Dygu3fcMBHgPqRqalHZlvLsh6UK3M5N5sxCPvYaj0xYWZFem2eWXpZif1IbAR2z3lee17duS-Ej4aTufV6TX7Wz_BjX2OrYFi9M-GkUy0-StMoRGK0dWAHkD2UH2FBUY65IkW4wQWukpCZCYgX2-3No3TA:1txnmq:xybIwO8BK8hqmMLYcenf-g9o2RKo3ub26nHNhKTDS6w', `expire_date` = '2025-04-10 14:00:48.998090' WHERE `django_session`.`session_key` = 'ta24p1t9nbidbvxdgzk0gpbg5kjeaahx'; args=('.eJxVjEsOwiAUAO_C2hA-Dygu3fcMBHgPqRqalHZlvLsh6UK3M5N5sxCPvYaj0xYWZFem2eWXpZif1IbAR2z3lee17duS-Ej4aTufV6TX7Wz_BjX2OrYFi9M-GkUy0-StMoRGK0dWAHkD2UH2FBUY65IkW4wQWukpCZCYgX2-3No3TA:1txnmq:xybIwO8BK8hqmMLYcenf-g9o2RKo3ub26nHNhKTDS6w', '2025-04-10 14:00:48.998090', 'ta24p1t9nbidbvxdgzk0gpbg5kjeaahx'); alias=default
+(0.000) COMMIT; args=None; alias=default
+"POST /api/users/login/ HTTP/1.1" 200 744
+"OPTIONS /api/users/me/ HTTP/1.1" 200 0
+(0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+(0.000) SELECT `users_user`.`id`, `users_user`.`password`, `users_user`.`last_login`, `users_user`.`is_superuser`, `users_user`.`username`, `users_user`.`first_name`, `users_user`.`last_name`, `users_user`.`is_staff`, `users_user`.`is_active`, `users_user`.`date_joined`, `users_user`.`pseudo`, `users_user`.`full_name`, `users_user`.`gender`, `users_user`.`email`, `users_user`.`phone`, `users_user`.`pays`, `users_user`.`bio`, `users_user`.`birthday`, `users_user`.`avatar`, `users_user`.`updated_at`, `users_user`.`role`, `users_user`.`is_online` FROM `users_user` WHERE `users_user`.`id` = 3 LIMIT 21; args=(3,); alias=default
+"GET /api/users/me/ HTTP/1.1" 200 253
+Exception while resolving variable 'name' in template 'unknown'.
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\django\views\static.py", line 51, in serve
+    raise Http404(_("“%(path)s” does not exist") % {"path": fullpath})
+django.http.response.Http404: “C:\Users\DELL\Desktop\Real App\App-gaming\gamingzone-backend\media\avatars\default.png” does not exist
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\django\template\base.py", line 875, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'URLResolver' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\django\template\base.py", line 885, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'URLResolver' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\django\template\base.py", line 891, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\django\template\base.py", line 898, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [name] in <URLResolver <URLPattern list> (admin:admin) 'admin/'>
+Exception while resolving variable 'name' in template 'unknown'.
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\django\views\static.py", line 51, in serve
+    raise Http404(_("“%(path)s” does not exist") % {"path": fullpath})
+django.http.response.Http404: “C:\Users\DELL\Desktop\Real App\App-gaming\gamingzone-backend\media\avatars\default.png” does not exist
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\django\template\base.py", line 875, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'URLResolver' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\django\template\base.py", line 885, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'URLResolver' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\django\template\base.py", line 891, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\django\template\base.py", line 898, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [name] in <URLResolver <module 'users.urls' from 'C:\\Users\\DELL\\Desktop\\Real App\\App-gaming\\gamingzone-backend\\users\\urls.py'> (None:None) 'api/users/'>
+Exception while resolving variable 'name' in template 'unknown'.
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\django\views\static.py", line 51, in serve
+    raise Http404(_("“%(path)s” does not exist") % {"path": fullpath})
+django.http.response.Http404: “C:\Users\DELL\Desktop\Real App\App-gaming\gamingzone-backend\media\avatars\default.png” does not exist
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\django\template\base.py", line 875, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'URLResolver' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\django\template\base.py", line 885, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'URLResolver' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\django\template\base.py", line 891, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\django\template\base.py", line 898, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [name] in <URLResolver <module 'messages_users.urls' from 'C:\\Users\\DELL\\Desktop\\Real App\\App-gaming\\gamingzone-backend\\messages_users\\urls.py'> (None:None) 'api/contact/'>
+Not Found: /media/avatars/default.png
+"GET /media/avatars/default.png HTTP/1.1" 404 2736
+File C:\Python312\Lib\importlib\resources\_itertools.py first seen with mtime 1733259452.0
+File C:\Python312\Lib\site-packages\jwt\warnings.py first seen with mtime 1742383975.3936107
+File C:\Python312\Lib\importlib\readers.py first seen with mtime 1733259452.0
+File C:\Python312\Lib\site-packages\tzdata\zoneinfo\__init__.py first seen with mtime 1740571576.6206982
+File C:\Python312\Lib\site-packages\jwt\api_jwt.py first seen with mtime 1742383975.384128
+File C:\Python312\Lib\importlib\resources\readers.py first seen with mtime 1733259452.0
+File C:\Python312\Lib\site-packages\jwt\exceptions.py first seen with mtime 1742383975.3863635
+File C:\Python312\Lib\site-packages\jwt\algorithms.py first seen with mtime 1742383975.3808358
+File C:\Python312\Lib\site-packages\jwt\types.py first seen with mtime 1742383975.3916235
+File C:\Python312\Lib\site-packages\rest_framework_simplejwt\backends.py first seen with mtime 1742383975.488702
+File C:\Python312\Lib\site-packages\jwt\jwk_set_cache.py first seen with mtime 1742383975.3885996
+File C:\Python312\Lib\site-packages\jwt\api_jwk.py first seen with mtime 1742383975.3831286
+File C:\Python312\Lib\site-packages\jwt\jwks_client.py first seen with mtime 1742383975.3895986
+File C:\Python312\Lib\site-packages\jwt\utils.py first seen with mtime 1742383975.3926246
+File C:\Python312\Lib\site-packages\tzdata\__init__.py first seen with mtime 1740571576.598634
+File C:\Python312\Lib\site-packages\rest_framework_simplejwt\state.py first seen with mtime 1742383975.4944124
+File C:\Python312\Lib\site-packages\jwt\__init__.py first seen with mtime 1742383975.3700988
+File C:\Python312\Lib\site-packages\jwt\api_jws.py first seen with mtime 1742383975.3831286
+Exception while resolving variable 'name' in template 'unknown'.
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\django\views\static.py", line 51, in serve
+    raise Http404(_("“%(path)s” does not exist") % {"path": fullpath})
+django.http.response.Http404: “C:\Users\DELL\Desktop\Real App\App-gaming\gamingzone-backend\media\avatars\default.png” does not exist
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\django\template\base.py", line 875, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'URLResolver' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\django\template\base.py", line 885, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'URLResolver' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\django\template\base.py", line 891, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\django\template\base.py", line 898, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [name] in <URLResolver <URLPattern list> (admin:admin) 'admin/'>
+Exception while resolving variable 'name' in template 'unknown'.
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\django\views\static.py", line 51, in serve
+    raise Http404(_("“%(path)s” does not exist") % {"path": fullpath})
+django.http.response.Http404: “C:\Users\DELL\Desktop\Real App\App-gaming\gamingzone-backend\media\avatars\default.png” does not exist
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\django\template\base.py", line 875, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'URLResolver' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\django\template\base.py", line 885, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'URLResolver' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\django\template\base.py", line 891, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\django\template\base.py", line 898, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [name] in <URLResolver <module 'users.urls' from 'C:\\Users\\DELL\\Desktop\\Real App\\App-gaming\\gamingzone-backend\\users\\urls.py'> (None:None) 'api/users/'>
+Exception while resolving variable 'name' in template 'unknown'.
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\django\views\static.py", line 51, in serve
+    raise Http404(_("“%(path)s” does not exist") % {"path": fullpath})
+django.http.response.Http404: “C:\Users\DELL\Desktop\Real App\App-gaming\gamingzone-backend\media\avatars\default.png” does not exist
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\django\template\base.py", line 875, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'URLResolver' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\django\template\base.py", line 885, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'URLResolver' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\django\template\base.py", line 891, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\django\template\base.py", line 898, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [name] in <URLResolver <module 'messages_users.urls' from 'C:\\Users\\DELL\\Desktop\\Real App\\App-gaming\\gamingzone-backend\\messages_users\\urls.py'> (None:None) 'api/contact/'>
+Not Found: /media/avatars/default.png
+"GET /media/avatars/default.png HTTP/1.1" 404 2736
+"OPTIONS /api/users/updateProfileUser/3/ HTTP/1.1" 200 0
+(0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+(0.000) SELECT `users_user`.`id`, `users_user`.`password`, `users_user`.`last_login`, `users_user`.`is_superuser`, `users_user`.`username`, `users_user`.`first_name`, `users_user`.`last_name`, `users_user`.`is_staff`, `users_user`.`is_active`, `users_user`.`date_joined`, `users_user`.`pseudo`, `users_user`.`full_name`, `users_user`.`gender`, `users_user`.`email`, `users_user`.`phone`, `users_user`.`pays`, `users_user`.`bio`, `users_user`.`birthday`, `users_user`.`avatar`, `users_user`.`updated_at`, `users_user`.`role`, `users_user`.`is_online` FROM `users_user` WHERE `users_user`.`id` = 3 LIMIT 21; args=(3,); alias=default
+(0.000) SELECT `users_user`.`id`, `users_user`.`password`, `users_user`.`last_login`, `users_user`.`is_superuser`, `users_user`.`username`, `users_user`.`first_name`, `users_user`.`last_name`, `users_user`.`is_staff`, `users_user`.`is_active`, `users_user`.`date_joined`, `users_user`.`pseudo`, `users_user`.`full_name`, `users_user`.`gender`, `users_user`.`email`, `users_user`.`phone`, `users_user`.`pays`, `users_user`.`bio`, `users_user`.`birthday`, `users_user`.`avatar`, `users_user`.`updated_at`, `users_user`.`role`, `users_user`.`is_online` FROM `users_user` WHERE `users_user`.`id` = 3 LIMIT 21; args=(3,); alias=default
+(0.016) UPDATE `users_user` SET `password` = 'pbkdf2_sha256$720000$LTRwQYUh9inPFMnKnIkQWa$b/5xb8FMrcfGvbC+k1gXClxDdNcxL3CQ191480+s/Vk=', `last_login` = '2025-03-27 14:00:48.956997', `is_superuser` = 0, `username` = 'Elhadji', `first_name` = '', `last_name` = '', `is_staff` = 0, `is_active` = 1, `date_joined` = '2025-03-19 15:31:07.099760', `pseudo` = 'Piod Gamer', `full_name` = NULL, `gender` = '', `email` = 'malickelhadji07@gmail.com', `phone` = '', `pays` = '', `bio` = '', `birthday` = NULL, `avatar` = 'avatars/bachira.png', `updated_at` = '2025-03-27 14:01:11.396839', `role` = 'user', `is_online` = 1 WHERE `users_user`.`id` = 3; args=('pbkdf2_sha256$720000$LTRwQYUh9inPFMnKnIkQWa$b/5xb8FMrcfGvbC+k1gXClxDdNcxL3CQ191480+s/Vk=', '2025-03-27 14:00:48.956997', False, 'Elhadji', '', '', False, True, '2025-03-19 15:31:07.099760', 'Piod Gamer', '', 'malickelhadji07@gmail.com', '', '', '', 'avatars/bachira.png', '2025-03-27 14:01:11.396839', 'user', True, 3); alias=default
+"PUT /api/users/updateProfileUser/3/ HTTP/1.1" 200 225
+(0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+(0.000) SELECT `users_user`.`id`, `users_user`.`password`, `users_user`.`last_login`, `users_user`.`is_superuser`, `users_user`.`username`, `users_user`.`first_name`, `users_user`.`last_name`, `users_user`.`is_staff`, `users_user`.`is_active`, `users_user`.`date_joined`, `users_user`.`pseudo`, `users_user`.`full_name`, `users_user`.`gender`, `users_user`.`email`, `users_user`.`phone`, `users_user`.`pays`, `users_user`.`bio`, `users_user`.`birthday`, `users_user`.`avatar`, `users_user`.`updated_at`, `users_user`.`role`, `users_user`.`is_online` FROM `users_user` WHERE `users_user`.`id` = 3 LIMIT 21; args=(3,); alias=default
+"GET /api/users/me/ HTTP/1.1" 200 253
+"GET /media/avatars/bachira.png HTTP/1.1" 200 1092345
+File C:\Python312\Lib\site-packages\PIL\MpoImagePlugin.py first seen with mtime 1742383936.9493346
+File C:\Python312\Lib\site-packages\PIL\ImImagePlugin.py first seen with mtime 1742383936.906708
+File C:\Python312\Lib\site-packages\PIL\PcxImagePlugin.py first seen with mtime 1742383936.9578898
+File C:\Python312\Lib\site-packages\PIL\XbmImagePlugin.py first seen with mtime 1742383936.9823108
+File C:\Python312\Lib\site-packages\PIL\ImageFile.py first seen with mtime 1742383936.9178543
+File C:\Python312\Lib\site-packages\PIL\PaletteFile.py first seen with mtime 1742383936.9533384
+File C:\Python312\Lib\site-packages\PIL\Jpeg2KImagePlugin.py first seen with mtime 1742383936.9417126
+File C:\Python312\Lib\site-packages\PIL\IcoImagePlugin.py first seen with mtime 1742383936.9056563
+File C:\Python312\Lib\site-packages\PIL\PpmImagePlugin.py first seen with mtime 1742383936.9654512
+File C:\Python312\Lib\site-packages\PIL\DcxImagePlugin.py first seen with mtime 1742383936.8874784
+File C:\Python312\Lib\site-packages\PIL\MpegImagePlugin.py first seen with mtime 1742383936.94833
+File C:\Python312\Lib\site-packages\PIL\TgaImagePlugin.py first seen with mtime 1742383936.9730272
+File C:\Python312\Lib\site-packages\PIL\DdsImagePlugin.py first seen with mtime 1742383936.888475
+File C:\Python312\Lib\site-packages\PIL\QoiImagePlugin.py first seen with mtime 1742383936.967026
+File C:\Python312\Lib\site-packages\PIL\ImageSequence.py first seen with mtime 1742383936.931203
+File C:\Python312\Lib\site-packages\PIL\PixarImagePlugin.py first seen with mtime 1742383936.9618862
+File C:\Python312\Lib\site-packages\PIL\BmpImagePlugin.py first seen with mtime 1742383936.882509
+File C:\Python312\Lib\site-packages\PIL\BufrStubImagePlugin.py first seen with mtime 1742383936.8848238
+File C:\Python312\Lib\site-packages\PIL\WmfImagePlugin.py first seen with mtime 1742383936.9802694
+File C:\Python312\Lib\site-packages\PIL\ImageChops.py first seen with mtime 1742383936.9097087
+File C:\Python312\Lib\site-packages\PIL\IcnsImagePlugin.py first seen with mtime 1742383936.904101
+File C:\Python312\Lib\site-packages\PIL\GimpGradientFile.py first seen with mtime 1742383936.9000967
+File C:\Python312\Lib\site-packages\PIL\GbrImagePlugin.py first seen with mtime 1742383936.8960378
+File C:\Python312\Lib\site-packages\PIL\MspImagePlugin.py first seen with mtime 1742383936.9503782
+File C:\Python312\Lib\site-packages\PIL\ImagePalette.py first seen with mtime 1742383936.9276712
+File C:\Python312\Lib\site-packages\PIL\FtexImagePlugin.py first seen with mtime 1742383936.8944733
+File C:\Python312\Lib\site-packages\PIL\CurImagePlugin.py first seen with mtime 1742383936.8864298
+File C:\Python312\Lib\site-packages\PIL\PcdImagePlugin.py first seen with mtime 1742383936.955856
+File C:\Python312\Lib\site-packages\PIL\ImtImagePlugin.py first seen with mtime 1742383936.9367309
+File C:\Python312\Lib\site-packages\PIL\PsdImagePlugin.py first seen with mtime 1742383936.967026
+File C:\Python312\Lib\site-packages\PIL\WebPImagePlugin.py first seen with mtime 1742383936.979011
+File C:\Python312\Lib\site-packages\PIL\SgiImagePlugin.py first seen with mtime 1742383936.9680257
+File C:\Python312\Lib\site-packages\PIL\FitsImagePlugin.py first seen with mtime 1742383936.8914773
+File C:\Python312\Lib\site-packages\PIL\_imagingmath.cp312-win_amd64.pyd first seen with mtime 1742383937.0565577
+File C:\Python312\Lib\site-packages\PIL\SpiderImagePlugin.py first seen with mtime 1742383936.9700317
+File C:\Python312\Lib\site-packages\PIL\PdfParser.py first seen with mtime 1742383936.960889
+File C:\Python312\Lib\site-packages\PIL\ImageColor.py first seen with mtime 1742383936.912685
+File C:\Python312\Lib\site-packages\PIL\IptcImagePlugin.py first seen with mtime 1742383936.9406483
+File C:\Python312\Lib\site-packages\PIL\ImageOps.py first seen with mtime 1742383936.9266708
+File C:\Python312\Lib\site-packages\PIL\PngImagePlugin.py first seen with mtime 1742383936.962888
+File C:\Python312\Lib\site-packages\PIL\FliImagePlugin.py first seen with mtime 1742383936.892475
+File C:\Python312\Lib\fractions.py first seen with mtime 1733259452.0
+File C:\Python312\Lib\site-packages\PIL\TiffImagePlugin.py first seen with mtime 1742383936.9755404
+File C:\Python312\Lib\site-packages\PIL\BlpImagePlugin.py first seen with mtime 1742383936.8801973
+File C:\Python312\Lib\site-packages\PIL\GribStubImagePlugin.py first seen with mtime 1742383936.9020982
+File C:\Python312\Lib\site-packages\PIL\JpegImagePlugin.py first seen with mtime 1742383936.9438376
+File C:\Python312\Lib\site-packages\PIL\JpegPresets.py first seen with mtime 1742383936.9447968
+File C:\Python312\Lib\site-packages\PIL\PdfImagePlugin.py first seen with mtime 1742383936.95893
+File C:\Python312\Lib\site-packages\PIL\McIdasImagePlugin.py first seen with mtime 1742383936.9463
+File C:\Python312\Lib\site-packages\PIL\_webp.cp312-win_amd64.pyd first seen with mtime 1742383937.0713649
+File C:\Python312\Lib\site-packages\PIL\GimpPaletteFile.py first seen with mtime 1742383936.901096
+File C:\Python312\Lib\site-packages\PIL\SunImagePlugin.py first seen with mtime 1742383936.9710681
+File C:\Python312\Lib\site-packages\PIL\Hdf5StubImagePlugin.py first seen with mtime 1742383936.9030974
+File C:\Python312\Lib\site-packages\PIL\EpsImagePlugin.py first seen with mtime 1742383936.8894732
+File C:\Python312\Lib\site-packages\PIL\XpmImagePlugin.py first seen with mtime 1742383936.98331
+File C:\Python312\Lib\site-packages\PIL\PalmImagePlugin.py first seen with mtime 1742383936.954342
+File C:\Python312\Lib\site-packages\PIL\features.py first seen with mtime 1742383937.073366
+File C:\Python312\Lib\site-packages\PIL\XVThumbImagePlugin.py first seen with mtime 1742383936.9813108
+File C:\Python312\Lib\site-packages\PIL\ImageMath.py first seen with mtime 1742383936.923145
+File C:\Python312\Lib\site-packages\PIL\GifImagePlugin.py first seen with mtime 1742383936.8990982
+(0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+(0.000) SELECT `users_user`.`id`, `users_user`.`password`, `users_user`.`last_login`, `users_user`.`is_superuser`, `users_user`.`username`, `users_user`.`first_name`, `users_user`.`last_name`, `users_user`.`is_staff`, `users_user`.`is_active`, `users_user`.`date_joined`, `users_user`.`pseudo`, `users_user`.`full_name`, `users_user`.`gender`, `users_user`.`email`, `users_user`.`phone`, `users_user`.`pays`, `users_user`.`bio`, `users_user`.`birthday`, `users_user`.`avatar`, `users_user`.`updated_at`, `users_user`.`role`, `users_user`.`is_online` FROM `users_user` WHERE `users_user`.`id` = 3 LIMIT 21; args=(3,); alias=default
+(0.016) SELECT `users_user`.`id`, `users_user`.`password`, `users_user`.`last_login`, `users_user`.`is_superuser`, `users_user`.`username`, `users_user`.`first_name`, `users_user`.`last_name`, `users_user`.`is_staff`, `users_user`.`is_active`, `users_user`.`date_joined`, `users_user`.`pseudo`, `users_user`.`full_name`, `users_user`.`gender`, `users_user`.`email`, `users_user`.`phone`, `users_user`.`pays`, `users_user`.`bio`, `users_user`.`birthday`, `users_user`.`avatar`, `users_user`.`updated_at`, `users_user`.`role`, `users_user`.`is_online` FROM `users_user` WHERE `users_user`.`id` = 3 LIMIT 21; args=(3,); alias=default
+(0.015) SELECT 1 AS `a` FROM `users_user` WHERE (`users_user`.`pseudo` = 'Piod Gamer' AND NOT (`users_user`.`id` = 3)) LIMIT 1; args=(1, 'Piod Gamer', 3); alias=default
+(0.000) UPDATE `users_user` SET `password` = 'pbkdf2_sha256$720000$LTRwQYUh9inPFMnKnIkQWa$b/5xb8FMrcfGvbC+k1gXClxDdNcxL3CQ191480+s/Vk=', `last_login` = '2025-03-27 14:00:48.956997', `is_superuser` = 0, `username` = 'Elhadji', `first_name` = '', `last_name` = '', `is_staff` = 0, `is_active` = 1, `date_joined` = '2025-03-19 15:31:07.099760', `pseudo` = 'Piod Gamer', `full_name` = 'Elhadji Malick Diop', `gender` = '', `email` = 'malickelhadji07@gmail.com', `phone` = '', `pays` = '', `bio` = '', `birthday` = NULL, `avatar` = 'avatars/bachira.png', `updated_at` = '2025-03-27 14:01:27.810087', `role` = 'user', `is_online` = 1 WHERE `users_user`.`id` = 3; args=('pbkdf2_sha256$720000$LTRwQYUh9inPFMnKnIkQWa$b/5xb8FMrcfGvbC+k1gXClxDdNcxL3CQ191480+s/Vk=', '2025-03-27 14:00:48.956997', False, 'Elhadji', '', '', False, True, '2025-03-19 15:31:07.099760', 'Piod Gamer', 'Elhadji Malick Diop', '', 'malickelhadji07@gmail.com', '', '', '', 'avatars/bachira.png', '2025-03-27 14:01:27.810087', 'user', True, 3); alias=default
+"PUT /api/users/updateProfileUser/3/ HTTP/1.1" 200 242
+(0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+(0.000) SELECT `users_user`.`id`, `users_user`.`password`, `users_user`.`last_login`, `users_user`.`is_superuser`, `users_user`.`username`, `users_user`.`first_name`, `users_user`.`last_name`, `users_user`.`is_staff`, `users_user`.`is_active`, `users_user`.`date_joined`, `users_user`.`pseudo`, `users_user`.`full_name`, `users_user`.`gender`, `users_user`.`email`, `users_user`.`phone`, `users_user`.`pays`, `users_user`.`bio`, `users_user`.`birthday`, `users_user`.`avatar`, `users_user`.`updated_at`, `users_user`.`role`, `users_user`.`is_online` FROM `users_user` WHERE `users_user`.`id` = 3 LIMIT 21; args=(3,); alias=default
+"GET /api/users/me/ HTTP/1.1" 200 270
+(0.000) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+(0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+(0.000) SELECT `users_user`.`id`, `users_user`.`password`, `users_user`.`last_login`, `users_user`.`is_superuser`, `users_user`.`username`, `users_user`.`first_name`, `users_user`.`last_name`, `users_user`.`is_staff`, `users_user`.`is_active`, `users_user`.`date_joined`, `users_user`.`pseudo`, `users_user`.`full_name`, `users_user`.`gender`, `users_user`.`email`, `users_user`.`phone`, `users_user`.`pays`, `users_user`.`bio`, `users_user`.`birthday`, `users_user`.`avatar`, `users_user`.`updated_at`, `users_user`.`role`, `users_user`.`is_online` FROM `users_user` WHERE `users_user`.`id` = 3 LIMIT 21; args=(3,); alias=default
+"GET /api/users/me/ HTTP/1.1" 200 270
+"GET /media/avatars/bachira.png HTTP/1.1" 304 0
+(0.000) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+(0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+(0.000) SELECT `users_user`.`id`, `users_user`.`password`, `users_user`.`last_login`, `users_user`.`is_superuser`, `users_user`.`username`, `users_user`.`first_name`, `users_user`.`last_name`, `users_user`.`is_staff`, `users_user`.`is_active`, `users_user`.`date_joined`, `users_user`.`pseudo`, `users_user`.`full_name`, `users_user`.`gender`, `users_user`.`email`, `users_user`.`phone`, `users_user`.`pays`, `users_user`.`bio`, `users_user`.`birthday`, `users_user`.`avatar`, `users_user`.`updated_at`, `users_user`.`role`, `users_user`.`is_online` FROM `users_user` WHERE `users_user`.`id` = 3 LIMIT 21; args=(3,); alias=default
+"GET /api/users/me/ HTTP/1.1" 200 270
+(0.000) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+(0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+(0.000) SELECT `users_user`.`id`, `users_user`.`password`, `users_user`.`last_login`, `users_user`.`is_superuser`, `users_user`.`username`, `users_user`.`first_name`, `users_user`.`last_name`, `users_user`.`is_staff`, `users_user`.`is_active`, `users_user`.`date_joined`, `users_user`.`pseudo`, `users_user`.`full_name`, `users_user`.`gender`, `users_user`.`email`, `users_user`.`phone`, `users_user`.`pays`, `users_user`.`bio`, `users_user`.`birthday`, `users_user`.`avatar`, `users_user`.`updated_at`, `users_user`.`role`, `users_user`.`is_online` FROM `users_user` WHERE `users_user`.`id` = 3 LIMIT 21; args=(3,); alias=default
+"GET /api/users/me/ HTTP/1.1" 200 270
+"GET /media/avatars/bachira.png HTTP/1.1" 304 0
+(0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+(0.000) SELECT `users_user`.`id`, `users_user`.`password`, `users_user`.`last_login`, `users_user`.`is_superuser`, `users_user`.`username`, `users_user`.`first_name`, `users_user`.`last_name`, `users_user`.`is_staff`, `users_user`.`is_active`, `users_user`.`date_joined`, `users_user`.`pseudo`, `users_user`.`full_name`, `users_user`.`gender`, `users_user`.`email`, `users_user`.`phone`, `users_user`.`pays`, `users_user`.`bio`, `users_user`.`birthday`, `users_user`.`avatar`, `users_user`.`updated_at`, `users_user`.`role`, `users_user`.`is_online` FROM `users_user` WHERE `users_user`.`id` = 3 LIMIT 21; args=(3,); alias=default
+"GET /api/users/me/ HTTP/1.1" 200 270
+(0.000) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+(0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+(0.000) SELECT `users_user`.`id`, `users_user`.`password`, `users_user`.`last_login`, `users_user`.`is_superuser`, `users_user`.`username`, `users_user`.`first_name`, `users_user`.`last_name`, `users_user`.`is_staff`, `users_user`.`is_active`, `users_user`.`date_joined`, `users_user`.`pseudo`, `users_user`.`full_name`, `users_user`.`gender`, `users_user`.`email`, `users_user`.`phone`, `users_user`.`pays`, `users_user`.`bio`, `users_user`.`birthday`, `users_user`.`avatar`, `users_user`.`updated_at`, `users_user`.`role`, `users_user`.`is_online` FROM `users_user` WHERE `users_user`.`id` = 3 LIMIT 21; args=(3,); alias=default
+"GET /api/users/me/ HTTP/1.1" 200 270
+"GET /media/avatars/bachira.png HTTP/1.1" 304 0
+Unauthorized: /api/users/me/
+"GET /api/users/me/ HTTP/1.1" 401 172
+(0.016) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+(0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+(0.000) SELECT `users_user`.`id`, `users_user`.`password`, `users_user`.`last_login`, `users_user`.`is_superuser`, `users_user`.`username`, `users_user`.`first_name`, `users_user`.`last_name`, `users_user`.`is_staff`, `users_user`.`is_active`, `users_user`.`date_joined`, `users_user`.`pseudo`, `users_user`.`full_name`, `users_user`.`gender`, `users_user`.`email`, `users_user`.`phone`, `users_user`.`pays`, `users_user`.`bio`, `users_user`.`birthday`, `users_user`.`avatar`, `users_user`.`updated_at`, `users_user`.`role`, `users_user`.`is_online` FROM `users_user` WHERE `users_user`.`email` = 'malickelhadji07@gmail.com' LIMIT 21; args=('malickelhadji07@gmail.com',); alias=default
+(0.015) UPDATE `users_user` SET `password` = 'pbkdf2_sha256$720000$LTRwQYUh9inPFMnKnIkQWa$b/5xb8FMrcfGvbC+k1gXClxDdNcxL3CQ191480+s/Vk=', `last_login` = '2025-03-27 15:39:34.347565', `is_superuser` = 0, `username` = 'Elhadji', `first_name` = '', `last_name` = '', `is_staff` = 0, `is_active` = 1, `date_joined` = '2025-03-19 15:31:07.099760', `pseudo` = 'Piod Gamer', `full_name` = 'Elhadji Malick Diop', `gender` = '', `email` = 'malickelhadji07@gmail.com', `phone` = '', `pays` = '', `bio` = '', `birthday` = NULL, `avatar` = 'avatars/bachira.png', `updated_at` = '2025-03-27 15:39:34.347565', `role` = 'user', `is_online` = 1 WHERE `users_user`.`id` = 3; args=('pbkdf2_sha256$720000$LTRwQYUh9inPFMnKnIkQWa$b/5xb8FMrcfGvbC+k1gXClxDdNcxL3CQ191480+s/Vk=', '2025-03-27 15:39:34.347565', False, 'Elhadji', '', '', False, True, '2025-03-19 15:31:07.099760', 'Piod Gamer', 'Elhadji Malick Diop', '', 'malickelhadji07@gmail.com', '', '', '', 'avatars/bachira.png', '2025-03-27 15:39:34.347565', 'user', True, 3); alias=default
+(0.000) SELECT 1 AS `a` FROM `django_session` WHERE `django_session`.`session_key` = 'xagt3ixqlo8bv22p29573wb71j6i1oo3' LIMIT 1; args=(1, 'xagt3ixqlo8bv22p29573wb71j6i1oo3'); alias=default
+(0.000) BEGIN; args=None; alias=default
+(0.000) INSERT INTO `django_session` (`session_key`, `session_data`, `expire_date`) VALUES ('xagt3ixqlo8bv22p29573wb71j6i1oo3', 'e30:1txpKQ:jbDUdEqtMJBVTGwSresjNG4Fjrn9mMyMHNmGP0CgwaM', '2025-04-10 15:39:34.361185'); args=('xagt3ixqlo8bv22p29573wb71j6i1oo3', 'e30:1txpKQ:jbDUdEqtMJBVTGwSresjNG4Fjrn9mMyMHNmGP0CgwaM', '2025-04-10 15:39:34.361185'); alias=default
+(0.000) COMMIT; args=None; alias=default
+(0.016) UPDATE `users_user` SET `last_login` = '2025-03-27 15:39:34.365189' WHERE `users_user`.`id` = 3; args=('2025-03-27 15:39:34.365189', 3); alias=default
+(0.000) INSERT INTO `token_blacklist_outstandingtoken` (`user_id`, `jti`, `token`, `created_at`, `expires_at`) VALUES (3, '11e7c215fd3641fd824f2fff92b06e8a', 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc0MzY5NDc3NCwiaWF0IjoxNzQzMDg5OTc0LCJqdGkiOiIxMWU3YzIxNWZkMzY0MWZkODI0ZjJmZmY5MmIwNmU4YSIsInVzZXJfaWQiOjN9.zf8S3vhlNtRbBc0gS52ZLewxnS0WsKr5w1wh5DGEFS0', '2025-03-27 15:39:34.373185', '2025-04-03 15:39:34'); args=[3, '11e7c215fd3641fd824f2fff92b06e8a', 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc0MzY5NDc3NCwiaWF0IjoxNzQzMDg5OTc0LCJqdGkiOiIxMWU3YzIxNWZkMzY0MWZkODI0ZjJmZmY5MmIwNmU4YSIsInVzZXJfaWQiOjN9.zf8S3vhlNtRbBc0gS52ZLewxnS0WsKr5w1wh5DGEFS0', '2025-03-27 15:39:34.373185', '2025-04-03 15:39:34']; alias=default
+(0.000) BEGIN; args=None; alias=default
+(0.000) UPDATE `django_session` SET `session_data` = '.eJxVjEsOwiAUAO_C2hA-Dygu3fcMBHgPqRqalHZlvLsh6UK3M5N5sxCPvYaj0xYWZFem2eWXpZif1IbAR2z3lee17duS-Ej4aTufV6TX7Wz_BjX2OrYFi9M-GkUy0-StMoRGK0dWAHkD2UH2FBUY65IkW4wQWukpCZCYgX2-3No3TA:1txpKQ:8JUUIw0cGbzwU9VAZDz4t82OJZhq41afas5s5ulNyKw', `expire_date` = '2025-04-10 15:39:34.376263' WHERE `django_session`.`session_key` = 'xagt3ixqlo8bv22p29573wb71j6i1oo3'; args=('.eJxVjEsOwiAUAO_C2hA-Dygu3fcMBHgPqRqalHZlvLsh6UK3M5N5sxCPvYaj0xYWZFem2eWXpZif1IbAR2z3lee17duS-Ej4aTufV6TX7Wz_BjX2OrYFi9M-GkUy0-StMoRGK0dWAHkD2UH2FBUY65IkW4wQWukpCZCYgX2-3No3TA:1txpKQ:8JUUIw0cGbzwU9VAZDz4t82OJZhq41afas5s5ulNyKw', '2025-04-10 15:39:34.376263', 'xagt3ixqlo8bv22p29573wb71j6i1oo3'); alias=default
+(0.000) COMMIT; args=None; alias=default
+"POST /api/users/login/ HTTP/1.1" 200 761
+(0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+(0.000) SELECT `users_user`.`id`, `users_user`.`password`, `users_user`.`last_login`, `users_user`.`is_superuser`, `users_user`.`username`, `users_user`.`first_name`, `users_user`.`last_name`, `users_user`.`is_staff`, `users_user`.`is_active`, `users_user`.`date_joined`, `users_user`.`pseudo`, `users_user`.`full_name`, `users_user`.`gender`, `users_user`.`email`, `users_user`.`phone`, `users_user`.`pays`, `users_user`.`bio`, `users_user`.`birthday`, `users_user`.`avatar`, `users_user`.`updated_at`, `users_user`.`role`, `users_user`.`is_online` FROM `users_user` WHERE `users_user`.`id` = 3 LIMIT 21; args=(3,); alias=default
+"GET /api/users/me/ HTTP/1.1" 200 270
+"GET /media/avatars/bachira.png HTTP/1.1" 304 0
+(0.000) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+(0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+(0.000) SELECT `users_user`.`id`, `users_user`.`password`, `users_user`.`last_login`, `users_user`.`is_superuser`, `users_user`.`username`, `users_user`.`first_name`, `users_user`.`last_name`, `users_user`.`is_staff`, `users_user`.`is_active`, `users_user`.`date_joined`, `users_user`.`pseudo`, `users_user`.`full_name`, `users_user`.`gender`, `users_user`.`email`, `users_user`.`phone`, `users_user`.`pays`, `users_user`.`bio`, `users_user`.`birthday`, `users_user`.`avatar`, `users_user`.`updated_at`, `users_user`.`role`, `users_user`.`is_online` FROM `users_user` WHERE `users_user`.`id` = 3 LIMIT 21; args=(3,); alias=default
+"GET /api/users/me/ HTTP/1.1" 200 270
+(0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+(0.000) SELECT `users_user`.`id`, `users_user`.`password`, `users_user`.`last_login`, `users_user`.`is_superuser`, `users_user`.`username`, `users_user`.`first_name`, `users_user`.`last_name`, `users_user`.`is_staff`, `users_user`.`is_active`, `users_user`.`date_joined`, `users_user`.`pseudo`, `users_user`.`full_name`, `users_user`.`gender`, `users_user`.`email`, `users_user`.`phone`, `users_user`.`pays`, `users_user`.`bio`, `users_user`.`birthday`, `users_user`.`avatar`, `users_user`.`updated_at`, `users_user`.`role`, `users_user`.`is_online` FROM `users_user` WHERE `users_user`.`email` = 'malickelhadji07@gmail.com' LIMIT 21; args=('malickelhadji07@gmail.com',); alias=default
+(0.000) UPDATE `users_user` SET `password` = 'pbkdf2_sha256$720000$LTRwQYUh9inPFMnKnIkQWa$b/5xb8FMrcfGvbC+k1gXClxDdNcxL3CQ191480+s/Vk=', `last_login` = '2025-03-27 15:49:50.500088', `is_superuser` = 0, `username` = 'Elhadji', `first_name` = '', `last_name` = '', `is_staff` = 0, `is_active` = 1, `date_joined` = '2025-03-19 15:31:07.099760', `pseudo` = 'Piod Gamer', `full_name` = 'Elhadji Malick Diop', `gender` = '', `email` = 'malickelhadji07@gmail.com', `phone` = '', `pays` = '', `bio` = '', `birthday` = NULL, `avatar` = 'avatars/bachira.png', `updated_at` = '2025-03-27 15:49:50.500088', `role` = 'user', `is_online` = 1 WHERE `users_user`.`id` = 3; args=('pbkdf2_sha256$720000$LTRwQYUh9inPFMnKnIkQWa$b/5xb8FMrcfGvbC+k1gXClxDdNcxL3CQ191480+s/Vk=', '2025-03-27 15:49:50.500088', False, 'Elhadji', '', '', False, True, '2025-03-19 15:31:07.099760', 'Piod Gamer', 'Elhadji Malick Diop', '', 'malickelhadji07@gmail.com', '', '', '', 'avatars/bachira.png', '2025-03-27 15:49:50.500088', 'user', True, 3); alias=default
+(0.000) SELECT 1 AS `a` FROM `django_session` WHERE `django_session`.`session_key` = '1zovpshuwaimb0xl8n86xxg0llhunb0r' LIMIT 1; args=(1, '1zovpshuwaimb0xl8n86xxg0llhunb0r'); alias=default
+(0.000) BEGIN; args=None; alias=default
+(0.000) INSERT INTO `django_session` (`session_key`, `session_data`, `expire_date`) VALUES ('1zovpshuwaimb0xl8n86xxg0llhunb0r', 'e30:1txpUM:_NPb89HDvwGlRRlxP1e5EoIdAy0gGX6Eq2msiDRoULA', '2025-04-10 15:49:50.506606'); args=('1zovpshuwaimb0xl8n86xxg0llhunb0r', 'e30:1txpUM:_NPb89HDvwGlRRlxP1e5EoIdAy0gGX6Eq2msiDRoULA', '2025-04-10 15:49:50.506606'); alias=default
+(0.015) COMMIT; args=None; alias=default
+(0.000) UPDATE `users_user` SET `last_login` = '2025-03-27 15:49:50.511483' WHERE `users_user`.`id` = 3; args=('2025-03-27 15:49:50.511483', 3); alias=default
+(0.000) INSERT INTO `token_blacklist_outstandingtoken` (`user_id`, `jti`, `token`, `created_at`, `expires_at`) VALUES (3, 'de997f0bf3c1466babf23cfe471fd9b3', 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc0MzY5NTM5MCwiaWF0IjoxNzQzMDkwNTkwLCJqdGkiOiJkZTk5N2YwYmYzYzE0NjZiYWJmMjNjZmU0NzFmZDliMyIsInVzZXJfaWQiOjN9.HXlHHiRWqg5RaS3xxByDjigIJspT6R5soI3Qa6bGlPE', '2025-03-27 15:49:50.514384', '2025-04-03 15:49:50'); args=[3, 'de997f0bf3c1466babf23cfe471fd9b3', 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc0MzY5NTM5MCwiaWF0IjoxNzQzMDkwNTkwLCJqdGkiOiJkZTk5N2YwYmYzYzE0NjZiYWJmMjNjZmU0NzFmZDliMyIsInVzZXJfaWQiOjN9.HXlHHiRWqg5RaS3xxByDjigIJspT6R5soI3Qa6bGlPE', '2025-03-27 15:49:50.514384', '2025-04-03 15:49:50']; alias=default
+(0.000) BEGIN; args=None; alias=default
+(0.000) UPDATE `django_session` SET `session_data` = '.eJxVjEsOwiAUAO_C2hA-Dygu3fcMBHgPqRqalHZlvLsh6UK3M5N5sxCPvYaj0xYWZFem2eWXpZif1IbAR2z3lee17duS-Ej4aTufV6TX7Wz_BjX2OrYFi9M-GkUy0-StMoRGK0dWAHkD2UH2FBUY65IkW4wQWukpCZCYgX2-3No3TA:1txpUM:nQ3qo2iDHPqHkhxJD9I1fWn0DVayS-ChZyIIi7cpK6k', `expire_date` = '2025-04-10 15:49:50.517385' WHERE `django_session`.`session_key` = '1zovpshuwaimb0xl8n86xxg0llhunb0r'; args=('.eJxVjEsOwiAUAO_C2hA-Dygu3fcMBHgPqRqalHZlvLsh6UK3M5N5sxCPvYaj0xYWZFem2eWXpZif1IbAR2z3lee17duS-Ej4aTufV6TX7Wz_BjX2OrYFi9M-GkUy0-StMoRGK0dWAHkD2UH2FBUY65IkW4wQWukpCZCYgX2-3No3TA:1txpUM:nQ3qo2iDHPqHkhxJD9I1fWn0DVayS-ChZyIIi7cpK6k', '2025-04-10 15:49:50.517385', '1zovpshuwaimb0xl8n86xxg0llhunb0r'); alias=default
+(0.000) COMMIT; args=None; alias=default
+"POST /api/users/login/ HTTP/1.1" 200 761
+"OPTIONS /api/users/reset-password/ HTTP/1.1" 200 0
+(0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+(0.000) SELECT `users_user`.`id`, `users_user`.`password`, `users_user`.`last_login`, `users_user`.`is_superuser`, `users_user`.`username`, `users_user`.`first_name`, `users_user`.`last_name`, `users_user`.`is_staff`, `users_user`.`is_active`, `users_user`.`date_joined`, `users_user`.`pseudo`, `users_user`.`full_name`, `users_user`.`gender`, `users_user`.`email`, `users_user`.`phone`, `users_user`.`pays`, `users_user`.`bio`, `users_user`.`birthday`, `users_user`.`avatar`, `users_user`.`updated_at`, `users_user`.`role`, `users_user`.`is_online` FROM `users_user` WHERE `users_user`.`email` = 'malickelhadji07@gmail.com' LIMIT 21; args=('malickelhadji07@gmail.com',); alias=default
+"POST /api/users/reset-password/ HTTP/1.1" 200 59
+"OPTIONS /api/users/reset/Mw/cnbyne-c4eb2411b91c7a2f176a67875c73b707/ HTTP/1.1" 200 0
+(0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+(0.000) SELECT `users_user`.`id`, `users_user`.`password`, `users_user`.`last_login`, `users_user`.`is_superuser`, `users_user`.`username`, `users_user`.`first_name`, `users_user`.`last_name`, `users_user`.`is_staff`, `users_user`.`is_active`, `users_user`.`date_joined`, `users_user`.`pseudo`, `users_user`.`full_name`, `users_user`.`gender`, `users_user`.`email`, `users_user`.`phone`, `users_user`.`pays`, `users_user`.`bio`, `users_user`.`birthday`, `users_user`.`avatar`, `users_user`.`updated_at`, `users_user`.`role`, `users_user`.`is_online` FROM `users_user` WHERE `users_user`.`id` = 3 LIMIT 21; args=(3,); alias=default
+(0.000) UPDATE `users_user` SET `password` = 'pbkdf2_sha256$720000$e3UERhbInClSfw8ea9DFYI$YwMZlm79S8IPqHt71nlnfXeX/aWrrnp8tj5jHo0v6K8=', `last_login` = '2025-03-27 15:49:50.511483', `is_superuser` = 0, `username` = 'Elhadji', `first_name` = '', `last_name` = '', `is_staff` = 0, `is_active` = 1, `date_joined` = '2025-03-19 15:31:07.099760', `pseudo` = 'Piod Gamer', `full_name` = 'Elhadji Malick Diop', `gender` = '', `email` = 'malickelhadji07@gmail.com', `phone` = '', `pays` = '', `bio` = '', `birthday` = NULL, `avatar` = 'avatars/bachira.png', `updated_at` = '2025-03-27 15:50:35.072420', `role` = 'user', `is_online` = 1 WHERE `users_user`.`id` = 3; args=('pbkdf2_sha256$720000$e3UERhbInClSfw8ea9DFYI$YwMZlm79S8IPqHt71nlnfXeX/aWrrnp8tj5jHo0v6K8=', '2025-03-27 15:49:50.511483', False, 'Elhadji', '', '', False, True, '2025-03-19 15:31:07.099760', 'Piod Gamer', 'Elhadji Malick Diop', '', 'malickelhadji07@gmail.com', '', '', '', 'avatars/bachira.png', '2025-03-27 15:50:35.072420', 'user', True, 3); alias=default
+"POST /api/users/reset/Mw/cnbyne-c4eb2411b91c7a2f176a67875c73b707/ HTTP/1.1" 200 54
+(0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+(0.016) SELECT `users_user`.`id`, `users_user`.`password`, `users_user`.`last_login`, `users_user`.`is_superuser`, `users_user`.`username`, `users_user`.`first_name`, `users_user`.`last_name`, `users_user`.`is_staff`, `users_user`.`is_active`, `users_user`.`date_joined`, `users_user`.`pseudo`, `users_user`.`full_name`, `users_user`.`gender`, `users_user`.`email`, `users_user`.`phone`, `users_user`.`pays`, `users_user`.`bio`, `users_user`.`birthday`, `users_user`.`avatar`, `users_user`.`updated_at`, `users_user`.`role`, `users_user`.`is_online` FROM `users_user` WHERE `users_user`.`email` = 'malickelhadji07@gmail.com' LIMIT 21; args=('malickelhadji07@gmail.com',); alias=default
+Unauthorized: /api/users/login/
+"POST /api/users/login/ HTTP/1.1" 401 45
+(0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+(0.000) SELECT `users_user`.`id`, `users_user`.`password`, `users_user`.`last_login`, `users_user`.`is_superuser`, `users_user`.`username`, `users_user`.`first_name`, `users_user`.`last_name`, `users_user`.`is_staff`, `users_user`.`is_active`, `users_user`.`date_joined`, `users_user`.`pseudo`, `users_user`.`full_name`, `users_user`.`gender`, `users_user`.`email`, `users_user`.`phone`, `users_user`.`pays`, `users_user`.`bio`, `users_user`.`birthday`, `users_user`.`avatar`, `users_user`.`updated_at`, `users_user`.`role`, `users_user`.`is_online` FROM `users_user` WHERE `users_user`.`email` = 'malickelhadji07@gmail.com' LIMIT 21; args=('malickelhadji07@gmail.com',); alias=default
+(0.000) UPDATE `users_user` SET `password` = 'pbkdf2_sha256$720000$e3UERhbInClSfw8ea9DFYI$YwMZlm79S8IPqHt71nlnfXeX/aWrrnp8tj5jHo0v6K8=', `last_login` = '2025-03-27 15:50:52.112724', `is_superuser` = 0, `username` = 'Elhadji', `first_name` = '', `last_name` = '', `is_staff` = 0, `is_active` = 1, `date_joined` = '2025-03-19 15:31:07.099760', `pseudo` = 'Piod Gamer', `full_name` = 'Elhadji Malick Diop', `gender` = '', `email` = 'malickelhadji07@gmail.com', `phone` = '', `pays` = '', `bio` = '', `birthday` = NULL, `avatar` = 'avatars/bachira.png', `updated_at` = '2025-03-27 15:50:52.112724', `role` = 'user', `is_online` = 1 WHERE `users_user`.`id` = 3; args=('pbkdf2_sha256$720000$e3UERhbInClSfw8ea9DFYI$YwMZlm79S8IPqHt71nlnfXeX/aWrrnp8tj5jHo0v6K8=', '2025-03-27 15:50:52.112724', False, 'Elhadji', '', '', False, True, '2025-03-19 15:31:07.099760', 'Piod Gamer', 'Elhadji Malick Diop', '', 'malickelhadji07@gmail.com', '', '', '', 'avatars/bachira.png', '2025-03-27 15:50:52.112724', 'user', True, 3); alias=default
+(0.000) SELECT 1 AS `a` FROM `django_session` WHERE `django_session`.`session_key` = 'ai04t72k5f87bo53ptcppl6pyb6t22ka' LIMIT 1; args=(1, 'ai04t72k5f87bo53ptcppl6pyb6t22ka'); alias=default
+(0.000) BEGIN; args=None; alias=default
+(0.000) INSERT INTO `django_session` (`session_key`, `session_data`, `expire_date`) VALUES ('ai04t72k5f87bo53ptcppl6pyb6t22ka', 'e30:1txpVM:9lbM3YFJbZBbVUNGKDDLJT6wl-KyOy0XURNQuh9r8Zc', '2025-04-10 15:50:52.116998'); args=('ai04t72k5f87bo53ptcppl6pyb6t22ka', 'e30:1txpVM:9lbM3YFJbZBbVUNGKDDLJT6wl-KyOy0XURNQuh9r8Zc', '2025-04-10 15:50:52.116998'); alias=default
+(0.016) COMMIT; args=None; alias=default
+(0.000) UPDATE `users_user` SET `last_login` = '2025-03-27 15:50:52.119597' WHERE `users_user`.`id` = 3; args=('2025-03-27 15:50:52.119597', 3); alias=default
+(0.000) INSERT INTO `token_blacklist_outstandingtoken` (`user_id`, `jti`, `token`, `created_at`, `expires_at`) VALUES (3, 'c600c8e5c1464888812a4a4c8ac82e01', 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc0MzY5NTQ1MiwiaWF0IjoxNzQzMDkwNjUyLCJqdGkiOiJjNjAwYzhlNWMxNDY0ODg4ODEyYTRhNGM4YWM4MmUwMSIsInVzZXJfaWQiOjN9.9TxG0g-2E064PBtnX3Qb2hfyzmzECg9vUXpc_argDtY', '2025-03-27 15:50:52.122390', '2025-04-03 15:50:52'); args=[3, 'c600c8e5c1464888812a4a4c8ac82e01', 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc0MzY5NTQ1MiwiaWF0IjoxNzQzMDkwNjUyLCJqdGkiOiJjNjAwYzhlNWMxNDY0ODg4ODEyYTRhNGM4YWM4MmUwMSIsInVzZXJfaWQiOjN9.9TxG0g-2E064PBtnX3Qb2hfyzmzECg9vUXpc_argDtY', '2025-03-27 15:50:52.122390', '2025-04-03 15:50:52']; alias=default
+(0.000) BEGIN; args=None; alias=default
+(0.000) UPDATE `django_session` SET `session_data` = '.eJxVjEEOwiAQRe_C2hCZDgO4dN8zkKFQqRpISrsy3l1JutDtf-_9l_C8b9nvLa1-ieIiBnH63QJPj1Q6iHcutyqnWrZ1CbIr8qBNjjWm5_Vw_w4yt9xroGRnRsNkHA3ImKbozipabS1FRYistHMApIHgKwGrOQVUxlhGK94fyDA2pA:1txpVM:Fw_viCFYEObOoR6SOxm3AbIVbOvY0sjtuiDToHGvUco', `expire_date` = '2025-04-10 15:50:52.127447' WHERE `django_session`.`session_key` = 'ai04t72k5f87bo53ptcppl6pyb6t22ka'; args=('.eJxVjEEOwiAQRe_C2hCZDgO4dN8zkKFQqRpISrsy3l1JutDtf-_9l_C8b9nvLa1-ieIiBnH63QJPj1Q6iHcutyqnWrZ1CbIr8qBNjjWm5_Vw_w4yt9xroGRnRsNkHA3ImKbozipabS1FRYistHMApIHgKwGrOQVUxlhGK94fyDA2pA:1txpVM:Fw_viCFYEObOoR6SOxm3AbIVbOvY0sjtuiDToHGvUco', '2025-04-10 15:50:52.127447', 'ai04t72k5f87bo53ptcppl6pyb6t22ka'); alias=default
+(0.000) COMMIT; args=None; alias=default
+"POST /api/users/login/ HTTP/1.1" 200 761
+(0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+(0.000) SELECT `users_user`.`id`, `users_user`.`password`, `users_user`.`last_login`, `users_user`.`is_superuser`, `users_user`.`username`, `users_user`.`first_name`, `users_user`.`last_name`, `users_user`.`is_staff`, `users_user`.`is_active`, `users_user`.`date_joined`, `users_user`.`pseudo`, `users_user`.`full_name`, `users_user`.`gender`, `users_user`.`email`, `users_user`.`phone`, `users_user`.`pays`, `users_user`.`bio`, `users_user`.`birthday`, `users_user`.`avatar`, `users_user`.`updated_at`, `users_user`.`role`, `users_user`.`is_online` FROM `users_user` WHERE `users_user`.`id` = 3 LIMIT 21; args=(3,); alias=default
+"GET /api/users/me/ HTTP/1.1" 200 270
+"GET /media/avatars/bachira.png HTTP/1.1" 304 0
