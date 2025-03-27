@@ -15,22 +15,22 @@ User = get_user_model()
 class PasswordResetView(APIView):
     def post(self, request):
         email = request.data.get('email')
+        print(f"Email reçu: {email}")
 
         try:
             user = User.objects.get(email=email)
+            print(f"Utilisateur trouvé: {user}")  # Vérifie si l'utilisateur existe
         except User.DoesNotExist:
+            print("Utilisateur non trouvé")
             return Response({"detail": "Email non trouvé."}, status=status.HTTP_400_BAD_REQUEST)
 
-        # Générer uidb64
+        # Générer uidb64 et token
         uidb64 = urlsafe_base64_encode(force_bytes(user.pk))
-
-        # Générer token
         token = default_token_generator.make_token(user)
+        reset_url = f"http://localhost:5173/reset/{uidb64}/{token}/"
 
-        # Lien de reset
-        reset_url = f"http://127.0.0.1:8000/api/users/reset/{uidb64}/{token}/"
+        print(f"Lien de réinitialisation généré: {reset_url}")  # Vérifie le lien
 
-     
         subject = "Réinitialisation de votre mot de passe"
         message = render_to_string('users/password_reset_email.html', {
             'user': user,
@@ -38,6 +38,7 @@ class PasswordResetView(APIView):
         })
 
         send_mail(subject, message, 'malickelhadji07@gmail.com', [email])
+        # print("Email envoyé")  # Vérifie si send_mail() est bien exécuté
 
         return Response({"detail": "Un email de réinitialisation a été envoyé."}, status=status.HTTP_200_OK)
 
