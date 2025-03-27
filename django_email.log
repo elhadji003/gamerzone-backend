@@ -22811,3 +22811,69 @@ File C:\Python312\Lib\site-packages\rest_framework\locale\zh_CN\LC_MESSAGES\djan
 File C:\Python312\Lib\site-packages\rest_framework\locale\zh_Hans\LC_MESSAGES\django.mo first seen with mtime 1742383793.5700035
 File C:\Python312\Lib\site-packages\rest_framework\locale\zh_Hant\LC_MESSAGES\django.mo first seen with mtime 1742383793.5720036
 File C:\Python312\Lib\site-packages\rest_framework\locale\zh_TW\LC_MESSAGES\django.mo first seen with mtime 1742383793.5730033
+File C:\Python312\Lib\site-packages\django\db\models\sql\compiler.py first seen with mtime 1741861025.3469908
+File C:\Python312\Lib\site-packages\rest_framework_simplejwt\token_blacklist\migrations\__init__.py first seen with mtime 1742383975.6133616
+File C:\Python312\Lib\encodings\idna.py first seen with mtime 1733259452.0
+File C:\Python312\Lib\site-packages\whitenoise\base.py first seen with mtime 1741861016.883941
+File C:\Users\DELL\Desktop\Real App\App-gaming\mon_projet\messages_users\migrations\__init__.py first seen with mtime 1742647101.0550218
+File C:\Python312\Lib\site-packages\rest_framework_simplejwt\token_blacklist\migrations\0006_auto_20171017_2113.py first seen with mtime 1742383975.603794
+File C:\Python312\Lib\site-packages\django\contrib\admin\migrations\0002_logentry_remove_auto_add.py first seen with mtime 1741861020.7970786
+File C:\Python312\Lib\site-packages\django\contrib\contenttypes\migrations\__init__.py first seen with mtime 1741861022.050951
+File C:\Python312\Lib\site-packages\django\contrib\staticfiles\storage.py first seen with mtime 1741861025.0449996
+File C:\Users\DELL\Desktop\Real App\App-gaming\mon_projet\users\migrations\0005_user_updated_at.py first seen with mtime 1742854244.514664
+File C:\Python312\Lib\site-packages\django\contrib\auth\migrations\0011_update_proxy_permissions.py first seen with mtime 1741861021.6819074
+File C:\Python312\Lib\site-packages\rest_framework_simplejwt\token_blacklist\migrations\0001_initial.py first seen with mtime 1742383975.590709
+File C:\Python312\Lib\site-packages\django\contrib\sessions\migrations\__init__.py first seen with mtime 1741861024.6100187
+File C:\Users\DELL\Desktop\Real App\App-gaming\mon_projet\users\migrations\0004_user_is_online.py first seen with mtime 1742689948.90807
+File C:\Python312\Lib\site-packages\whitenoise\middleware.py first seen with mtime 1741861016.8879125
+File C:\Python312\Lib\site-packages\django\contrib\sessions\middleware.py first seen with mtime 1741861024.2652028
+File C:\Python312\Lib\site-packages\whitenoise\string_utils.py first seen with mtime 1741861016.8929932
+File C:\Users\DELL\Desktop\Real App\App-gaming\mon_projet\users\migrations\0001_initial.py first seen with mtime 1742384062.9204805
+File C:\Python312\Lib\site-packages\rest_framework_simplejwt\token_blacklist\migrations\0007_auto_20171017_2214.py first seen with mtime 1742383975.605803
+File C:\Python312\Lib\site-packages\whitenoise\media_types.py first seen with mtime 1741861016.8866065
+File C:\Python312\Lib\site-packages\rest_framework_simplejwt\token_blacklist\migrations\0010_fix_migrate_to_bigautofield.py first seen with mtime 1742383975.6103637
+File C:\Python312\Lib\site-packages\django\contrib\auth\migrations\0004_alter_user_username_opts.py first seen with mtime 1741861021.673592
+File C:\Users\DELL\Desktop\Real App\App-gaming\mon_projet\users\migrations\0006_user_full_name_alter_user_phone.py first seen with mtime 1742986381.7034502
+File C:\Python312\Lib\site-packages\django\contrib\auth\migrations\0002_alter_permission_name_max_length.py first seen with mtime 1741861021.6717062
+File C:\Python312\Lib\site-packages\rest_framework_simplejwt\token_blacklist\migrations\0012_alter_outstandingtoken_user.py first seen with mtime 1742383975.6123612
+File C:\Users\DELL\Desktop\Real App\App-gaming\mon_projet\config\wsgi.py first seen with mtime 1743102891.093952
+File C:\Python312\Lib\site-packages\django\contrib\messages\middleware.py first seen with mtime 1741861023.4296994
+File C:\Python312\Lib\site-packages\django\contrib\auth\migrations\0006_require_contenttypes_0002.py first seen with mtime 1741861021.6757455
+File C:\Python312\Lib\site-packages\django\contrib\sessions\exceptions.py first seen with mtime 1741861024.2635088
+File C:\Python312\Lib\site-packages\django\contrib\auth\migrations\0010_alter_group_name_max_length.py first seen with mtime 1741861021.6806817
+File C:\Python312\Lib\site-packages\rest_framework_simplejwt\token_blacklist\migrations\0002_outstandingtoken_jti_hex.py first seen with mtime 1742383975.5927124
+File C:\Python312\Lib\site-packages\django\contrib\auth\migrations\0003_alter_user_email_max_length.py first seen with mtime 1741861021.67296
+File C:\Python312\Lib\site-packages\django\contrib\sessions\backends\base.py first seen with mtime 1741861024.268959
+File C:\Python312\Lib\site-packages\django\contrib\sessions\migrations\0001_initial.py first seen with mtime 1741861024.609236
+File C:\Users\DELL\Desktop\Real App\App-gaming\mon_projet\users\migrations\__init__.py first seen with mtime 1742382342.4888055
+File C:\Python312\Lib\site-packages\whitenoise\responders.py first seen with mtime 1741861016.8908484
+File C:\Python312\Lib\site-packages\django\db\backends\mysql\compiler.py first seen with mtime 1741861025.240267
+File C:\Users\DELL\Desktop\Real App\App-gaming\mon_projet\users\migrations\0002_user_role.py first seen with mtime 1742495652.1192484
+File C:\Python312\Lib\site-packages\django\contrib\auth\migrations\0007_alter_validators_add_error_messages.py first seen with mtime 1741861021.6769657
+File C:\Python312\Lib\site-packages\whitenoise\__init__.py first seen with mtime 1741861016.8827906
+File C:\Python312\Lib\site-packages\django\contrib\auth\migrations\0009_alter_user_last_name_max_length.py first seen with mtime 1741861021.6794567
+File C:\Python312\Lib\site-packages\django\db\migrations\graph.py first seen with mtime 1741861025.2894382
+File C:\Python312\Lib\site-packages\django\contrib\sessions\backends\__init__.py first seen with mtime 1741861024.2677095
+File C:\Python312\Lib\site-packages\rest_framework_simplejwt\token_blacklist\migrations\0011_linearizes_history.py first seen with mtime 1742383975.6123612
+File C:\Python312\Lib\site-packages\django\contrib\admin\migrations\__init__.py first seen with mtime 1741861020.7982156
+File C:\Python312\Lib\site-packages\rest_framework_simplejwt\token_blacklist\migrations\0003_auto_20171017_2007.py first seen with mtime 1742383975.5967033
+File C:\Python312\Lib\site-packages\django\contrib\contenttypes\migrations\0001_initial.py first seen with mtime 1741861022.0496838
+File C:\Python312\Lib\site-packages\django\contrib\sessions\backends\db.py first seen with mtime 1741861024.2734952
+File C:\Python312\Lib\site-packages\django\contrib\auth\migrations\__init__.py first seen with mtime 1741861021.6837785
+File C:\Python312\Lib\site-packages\django\db\migrations\recorder.py first seen with mtime 1741861025.2944121
+File C:\Python312\Lib\stringprep.py first seen with mtime 1733259452.0
+File C:\Python312\Lib\site-packages\django\contrib\auth\migrations\0005_alter_user_last_login_null.py first seen with mtime 1741861021.6742177
+File C:\Python312\Lib\site-packages\django\middleware\clickjacking.py first seen with mtime 1741861025.479047
+File C:\Python312\Lib\site-packages\django\contrib\admin\migrations\0003_logentry_add_action_flag_choices.py first seen with mtime 1741861020.7976005
+File C:\Python312\Lib\site-packages\django\contrib\auth\migrations\0012_alter_user_first_name_max_length.py first seen with mtime 1741861021.68316
+File C:\Python312\Lib\site-packages\rest_framework_simplejwt\token_blacklist\migrations\0008_migrate_to_bigautofield.py first seen with mtime 1742383975.6067994
+File C:\Users\DELL\Desktop\Real App\App-gaming\mon_projet\users\migrations\0003_alter_user_bio_alter_user_birthday_alter_user_email_and_more.py first seen with mtime 1742651455.2927673
+File C:\Python312\Lib\site-packages\rest_framework_simplejwt\token_blacklist\migrations\0005_remove_outstandingtoken_jti.py first seen with mtime 1742383975.6027966
+File C:\Python312\Lib\site-packages\rest_framework_simplejwt\token_blacklist\migrations\0004_auto_20171017_2013.py first seen with mtime 1742383975.598225
+File C:\Python312\Lib\site-packages\django\db\migrations\loader.py first seen with mtime 1741861025.290701
+File C:\Python312\Lib\site-packages\django\contrib\contenttypes\migrations\0002_remove_content_type_name.py first seen with mtime 1741861022.050951
+File C:\Python312\Lib\site-packages\django\contrib\auth\migrations\0001_initial.py first seen with mtime 1741861021.670553
+File C:\Python312\Lib\site-packages\django\contrib\auth\migrations\0008_alter_user_username_max_length.py first seen with mtime 1741861021.6782131
+File C:\Python312\Lib\site-packages\django\db\migrations\executor.py first seen with mtime 1741861025.2881787
+File C:\Python312\Lib\site-packages\django\contrib\admin\migrations\0001_initial.py first seen with mtime 1741861020.7964551
+File C:\Users\DELL\Desktop\Real App\App-gaming\mon_projet\messages_users\migrations\0001_initial.py first seen with mtime 1742651455.2907257
