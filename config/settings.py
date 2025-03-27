@@ -159,7 +159,11 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 # configueation pour les apis
 
 CORS_ALLOW_CREDENTIALS = True
-CORS_ALLOWED_ORIGINS = ['http://localhost:5173']
+CORS_ALLOWED_ORIGINS = [
+    "http://localhost:5173",
+    "https://gamerzone-backend-7vxw.onrender.com",
+]
+
 CORS_ALLOW_HEADERS = list(default_headers) + [
     'Authorization',
     'Content-Type',
