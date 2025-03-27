@@ -1,1 +1,1 @@
-web: gunicorn mon_projet.wsgi --log-file -
+web: gunicorn gamingzone-backend.wsgi --log-file -
