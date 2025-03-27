@@ -208,7 +208,7 @@ LOGGING = {
     'disable_existing_loggers': False,
     'handlers': {
         'file': {
-            'level': 'DEBUG',
+            'level': 'ERROR',
             'class': 'logging.FileHandler',
             'filename': 'django_email.log',
         },
@@ -223,3 +223,4 @@ LOGGING = {
 }
 
 EMAIL_FAIL_SILENTLY = False
+STATICFILES_STORAGE = "whitenoise.storage.CompressedManifestStaticFilesStorage"

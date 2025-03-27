@@ -24968,3 +24968,6 @@ File C:\Python312\Lib\site-packages\django\contrib\admin\migrations\0001_initial
 File C:\Python312\Lib\site-packages\rest_framework_simplejwt\token_blacklist\migrations\0003_auto_20171017_2007.py first seen with mtime 1742383975.5967033
 File C:\Python312\Lib\site-packages\django\contrib\sessions\backends\db.py first seen with mtime 1741861024.2734952
 File C:\Python312\Lib\site-packages\django\contrib\auth\migrations\0005_alter_user_last_login_null.py first seen with mtime 1741861021.6742177
+File C:\Users\DELL\Desktop\Real App\App-gaming\mon_projet\config\settings.py previous mtime: 1743108186.9005413, current mtime: 1743109009.58674
+C:\Users\DELL\Desktop\Real App\App-gaming\mon_projet\config\settings.py notified as changed. Signal results: [(<function template_changed at 0x0000017B9BB0AFC0>, None), (<function translation_file_changed at 0x0000017B9CCECA40>, None)].
+C:\Users\DELL\Desktop\Real App\App-gaming\mon_projet\config\settings.py changed, reloading.
