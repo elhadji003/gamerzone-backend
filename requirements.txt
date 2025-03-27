@@ -1,0 +1,3 @@
+gunicorn
+whitenoise
+mysqlclient  # ou pymysql si tu utilises PyMySQL
