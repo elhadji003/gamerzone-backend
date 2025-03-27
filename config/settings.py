@@ -165,7 +165,7 @@ CORS_ALLOWED_ORIGINS = [
 ]
 
 ALLOWED_HOSTS = [
-    "https://gamerzone-backend-7vxw.onrender.com",
+    "gamerzone-backend-7vxw.onrender.com",
     "127.0.0.1",
     "localhost",
 ]
@@ -177,6 +177,9 @@ CORS_ALLOW_HEADERS = list(default_headers) + [
 ]
 
 REST_FRAMEWORK = {
+    'DEFAULT_PARSER_CLASSES': [
+        'rest_framework.parsers.JSONParser',
+    ],
     'DEFAULT_AUTHENTICATION_CLASSES': (
         'rest_framework_simplejwt.authentication.JWTAuthentication',
     ),
