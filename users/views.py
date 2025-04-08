@@ -67,7 +67,7 @@ class LoginView(APIView):
             user.last_login = now()
             user.save()
 
-            django_login(request, user)  # Connexion de l'utilisateur dans la session
+            django_login(request, user)
 
             refresh = RefreshToken.for_user(user)
             return Response({
@@ -134,13 +134,15 @@ class DeleteAccountView(APIView):
 # ✅ Récupérer tous les utilisateurs avec pagination
 class UserListView(APIView):
     pagination_class = CustomPagination
+    queryset = User.objects.all().order_by('full_name')
 
     def get(self, request):
-        users = User.objects.all()
-        paginator = self.pagination_class()
-        paginated_users = paginator.paginate_queryset(users, request)
-        serializer = UserSerializer(paginated_users, many=True)
-        return paginator.get_paginated_response(serializer.data)
+        # Utilise self.queryset au lieu de redemander tous les utilisateurs
+        users = self.queryset
+        paginator = self.pagination_class()  # Instancier le paginator
+        paginated_users = paginator.paginate_queryset(users, request)  # Pagination manuelle
+        serializer = UserSerializer(paginated_users, many=True)  # Sérialisation
+        return paginator.get_paginated_response(serializer.data)  # Réponse paginée
 
 # ✅ Récupérer un utilisateur par ID
 class GetUserByIDView(APIView):

@@ -1,8 +1,10 @@
-from django.db import models
 from django.contrib.auth.models import AbstractUser
+from django.db import models
 from django.core.validators import RegexValidator
 
 class User(AbstractUser):
+    username = None  # Désactive complètement le champ 'username'
+
     pseudo = models.CharField(max_length=50, unique=True, verbose_name="Pseudo")
     full_name = models.CharField(max_length=100, verbose_name="Full name", null=True, blank=True)
 
@@ -32,7 +34,7 @@ class User(AbstractUser):
     is_online = models.BooleanField(default=False, verbose_name="En ligne")
 
     USERNAME_FIELD = 'email'
-    REQUIRED_FIELDS = ['pseudo']
+    REQUIRED_FIELDS = ['pseudo']  # important si tu veux garder pseudo obligatoire
 
     def __str__(self):
         return self.email

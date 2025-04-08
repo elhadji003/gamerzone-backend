@@ -12,7 +12,8 @@ urlpatterns = [
     path('', home),  # Ajoutez cette ligne
     path('admin/', admin.site.urls),
     path('api/users/', include('users.urls')),
-    path('api/contact/', include('messages_users.urls')),
+    path('api/contact/', include('messages_users.urls')),   
+    path('api/blogs/', include('blogsApp.urls')),
 ]
 if settings.DEBUG:
     urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
